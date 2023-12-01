@@ -8,7 +8,7 @@ The 24 sensors and modules are fully compatible with the ESP32 Expansion Board. 
 
 To make you master the electronic knowledge, detailed tutorials (Arduino C), schematic diagrams, wiring methods and test code are included. Through these projects, you will have a better understanding about programming, logic and electronics.
 
-## Kit
+## Kit list
 
 <p style="color:red;">(Note: KS5007 kit includes ESP32 mainboard；KS5008 kit does‘t include the ESP32 mainboard. )</p>
 
@@ -44,11 +44,11 @@ To make you master the electronic knowledge, detailed tutorials (Arduino C), sch
 | 28   | ![image-20231113150924666](media/image-20231113150924666.png) | USB Cable                                | 1    |
 | 29   | ![image-20231113150929148](media/image-20231113150929148.png) | F-F Dupont Wire                          | 1    |
 
-## Keyestudio ESP32 Core Board
+## ESP32 Core Board
 
 ![](media/d59fe9d9aced2ab49f5b9c6e59d9afde.jpeg)
 
-### Introduction
+**Introduction**
 
 Keyestudio ESP32 Core board is a Mini development board based on the ESP-WROOM-32 module. The board has brought out most I/O ports to pin headers of 2.54mm pitch. These provide an easy way of connecting peripherals according to your own needs.
 
@@ -56,7 +56,7 @@ When it comes to developing and debugging with the development board, the both s
 
 The ESP-WROOM-32 module is the industry's leading integrated WiFi + Bluetooth solution with less than 10 external components. It integrates antenna switches, RF balun, power amplifiers, low noise amplifiers, filters as well as power management modules. At the same time, it also integrates TSMC's low-power 40nm technology, power performance and rf performance, making it safe, reliable and easy to expand to a variety of applications.  
 
-### Specifications
+**Specifications**
 
 Microcontroller: ESP-WROOM-32Module
 
@@ -82,7 +82,7 @@ Dimensions：55\*26\*13mm
 
 Weight：9.3g
 
-### Pin out
+**Pin out**
 
 ![](media/faad4453ca14a342def16fdc3d46ef79.png)
 
@@ -101,7 +101,7 @@ Warning: The pin voltage level of the ESP32 is 3.3V.  If you want to connect the
 **Note:** GPIO6 to GPIO11 pins (SCK/CLK, SDO/SD0, SDI/SD1, SHD/SD2, SWP/SD3 and SCS/CMD pins) are used for SPI communication for the internal module, which are not recommended.    
 ● ADC: You can use the 16 ADC pins on this module to convert analog voltages (the output of some sensors) into digital voltages. Some of these converters are connected to internal amplifiers and are capable of measuring small voltages with high accuracy.
 
- **● DAC:** ESP32 module has two A/D converters with 8-bit precision.  
+**● DAC:** ESP32 module has two A/D converters with 8-bit precision.  
 **● Touch pad:** The ESP32 module has 10 pins that are sensitive to capacitance changes. You can attach these pins to certain pads (pads on a PCB) and use them as touch switches.   
 ● SPI:There are two SPI interfaces on the module, which can be used to connect the display screen, SD/microSD memory card module as well as external flash memory, etc.  
 ● I2C: SDA and SCL pins are used for I2C communication.    
@@ -109,23 +109,23 @@ Warning: The pin voltage level of the ESP32 is 3.3V.  If you want to connect the
 
 **●PWM:** Almost all ESP32 input/output pins can be used for PWM(pulse-width modulation). Using these pins can control the motors, LED lights and colors, etc.  
 
-4.  **Components**
+**Components**
     
-    ![](media/4e99a4f953b9ede17b5c135232ddb476.png)
+![](media/4e99a4f953b9ede17b5c135232ddb476.png)
 
-## Keyestudio ESP32-IO Expansion Board
+## ESP32-IO shield
 
 ![](media/51aa74b1f49e94086f20c639c03f86ea.jpeg)
 
-### Overview
+**Overview**
 
 Keyestudio ESP32-IO Expansion Board is designed to be compatible with the Keyestudio ESP32 Core Board (KS0413), which leads all pin connections of the ESP32 Core Board using a row of pins spaced 2.54mm apart. To facilitate the connection of other sensors, it also has two rows of pins with a spacing of 2.54mm rows, which are used to supply 3.3V DC power for external sensors/modules. 
 
 A power supply circuit is designed on the control board as it seeks to power the Keyestudio ESP32 Core Board easily. You solely need to input DC 6-9V voltage on the black DC head to power it. In addition, it also has a DIP switch to control the power switch.  
 
-### Specifications
+**Specifications**
 
-[Voltage](C:/Users/NINGMEI/AppData/Local/youdao/dict/Application/8.10.7.0/resultui/html/index.html#/javascript:;) [Supply](C:/Users/NINGMEI/AppData/Local/youdao/dict/Application/8.10.7.0/resultui/html/index.html#/javascript:;) ：DC 6-9V
+Voltage ：DC 6-9V
 
 Operating Current：60mA
 
@@ -133,10 +133,10 @@ Maximum Power：0.3W
 
 Working Temperature：-25℃ to +65℃
 
-Dimensions：30mm\*20mm
+Dimensions：30mm*20mm
 
 Environmental Protection Attributes：ROHS
 
-### Pins and Components
+**Pins and Components**
 
 ![](media/745d1963a8f8cd8dc3cfb76611daea4c.jpeg)
