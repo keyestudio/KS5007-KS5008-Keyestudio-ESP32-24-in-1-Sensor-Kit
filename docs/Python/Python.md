@@ -1,10 +1,10 @@
-# Python
+# Python tutorial
 
 ## 1. Install Thonny：
 
 Thonny is a free and open source software platform with small size, simple interface, simple operation and rich functions. It is a Python IDE suitable for beginners. In this tutorial, we use this IDE to develop a ESP32. Thonny supports multiple operating systems including Windows, Mac OS, Linux.
 
-### 1.1. Download Thonny：
+### 1. Download Thonny：
 
 (1)  Enter the website：[https://thonny.org](https://thonny.org) to download the latest version of Thonny.
 (2)  Thonny open-source code library：[https://github.com/thonny/thonny](https://github.com/thonny/thonny).
@@ -41,7 +41,7 @@ Thonny is a free and open source software platform with small size, simple inter
 
 ![](media/bd5823ede2c01d1fa4696438c62aec51.png)
 
-### 1.2 Windows System
+### 2 Windows System
 
 (1) The downloaded Thonny icon is as follows:
         
@@ -81,7 +81,7 @@ Thonny is a free and open source software platform with small size, simple inter
     
 ![](media/80f35044d91d66f734e36059db35f273.png)
 
-### 1.3 Basic Setting：
+### 3 Basic Setting：
 
 Double-click Thonny, choose lanuage and initial settings and click "**Let’s go！**".
     
@@ -99,7 +99,7 @@ Click“**View**”→“**File**”and“**Shell**”.
 
 ![](media/3d04fe6893ca104e4e593a0786cb3799.png)
 
-### 1.4 Install the CP2102 driver：
+### 4 Install the CP2102 driver：
 
 Before using the Thonny, we need to install the CP2102 driver in the computer.
 
@@ -147,7 +147,7 @@ You can refer to the file Get started with Arduino C，the route is：<span styl
 
 ![](media/33ad4ae8017abb0a971773df800077b5.png)
 
-### 1.5 Burn Micropython firmware
+### 5 Burn Micropython firmware
 
 To run a Python program on the ESP32 board, we need to burn the firmware to the ESP32 board first.
 
@@ -324,9 +324,9 @@ Then the code will be uploaded to the ESP32.
 Disconnect the USB cable and connect it, you can see the effect of the LED flashing continuously in the circuit on a cycle.  
 ![Img](./media/img-20231010102236.png)
 
-# Python Project
 
-## Single Sensor/Experiment Projects：
+
+## 2. Single Sensor/Experiment Projects：
 
 When we get the kit, we can see that there are 24 sensors/modules in the kit, which contain the corresponding ESP32 mainboard, ESP32 Expansion Board and wirings. Here, we will connect the 24 sensors individually to the ESP32 mainboard and the ESP32 Expansion Board using a wiring. Then run the corresponding test code to test the function of each sensor separately. Our next lesson is to study the principles of individual modules/sensors from simple to complex as well as some extended applications of sensors to consolidate and deepen our understanding of the kits.  
 
@@ -2871,7 +2871,7 @@ if __name__ == '__main__':
 
 Connect the wires according to the experimental wiring diagram and power on. Click ![](media/da852227207616ccd9aff28f19e02690.png)“Run current script”, the code starts executing. The dot matrix displays a“ smile ”pattern. Press “Ctrl+C”or click ![](media/27451c8a9c13e29d02bc0f5831cfaf1f.png)“Stop/Restart backend”to exit the program.
 
-## Comprehensive Experiments
+## 3. Comprehensive Experiments
 
 The previous projects are related to single sensor or module. In the following part, we will combine various sensors and modules to create some comprehensive experiments to perform special functions.
 

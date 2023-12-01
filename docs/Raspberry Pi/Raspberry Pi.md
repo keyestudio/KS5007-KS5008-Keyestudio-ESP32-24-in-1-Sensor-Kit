@@ -1,4 +1,4 @@
-# Raspberry Pi
+# Raspberry Pi C language tutorial
 
 Raspberry Pi is a card computer whose official system is Raspberry Pi OS, and can be installed on the Raspberry Pi, such as: ubuntu, Windows IoT. Raspberry Pi can be used as a personal server, performing camera monitoring and recognition, as well as voice interaction by connecting a camera and a voice interactive assistant. Also, Raspberry Pi leads out 40Pin pins that can be connected to various sensors and control LEDs, motors, etc. These can be used to make a robot with a Raspberry Pi.
 
@@ -542,9 +542,9 @@ The Arduino C library needs to add in this tutorial is saved in the file “Ardu
 
 ![](media/f05ae771f70322bc4e4c4c4ba10dfe76.png)
 
-# Raspberry Pi Projects
 
-## Single Sensor/Experiment Projects：
+
+## 8. Single Sensor/Experiment Projects：
 
 When we get the kit, we can see that there are 24 sensors/modules in thekit, which contain the corresponding ESP32 mainboard, ESP32 Expansion Board and wirings. Here, we will connect the 24 sensors individually to the ESP32 mainboard and the ESP32 Expansion Board using the wirings.
 Then run the corresponding code to test the function of each sensor separately. Our next projects are work to study the principles of individual modules/sensors from simple to complex as well as some extended applications of sensors to consolidate and deepen our understanding of the kits.
@@ -3443,7 +3443,7 @@ The pattern in our code is an array of byte data type, which is shown in the tab
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on. Then the dot matrix displays a “ smile ”pattern.
 
-## Comprehensive Experiments
+## 9. Comprehensive Experiments
 
 The previous projects are related to single sensor or module. In the following part, we will combine various sensors and modules to create some comprehensive experiments to perform special functions.
 
@@ -5023,7 +5023,7 @@ Press the key for the fourth time, the remainder is 4. Then the ultrasonic senso
 
 Press the key for the fifth time, the remainder is 0. Then the RGB will flash. If you press keys incessantly, remainders will change in a loop way. So does functions.
 
-# Resources
+## 10. Resources
 Download code, libraries and more details, please refer to the following link:
 [https://fs.keyestudio.com/KS5007-5008](https://fs.keyestudio.com/KS5007-5008)
 

@@ -1,4 +1,6 @@
-# Arduino
+# Arduino tutorial
+
+## Getting started with Arduino
 
 ### Windows System：
 
@@ -293,8 +295,6 @@ installation，CP2102 driver installation and set up the ESP32 environment pleas
 ![](media/6cbafeab774f07b05411adea8993d588.png)
 
 ![](media/a7b9ceca918d1c979bbf28157372fc2b.png)
-
-# Arduino Projects
 
 ## Single Sensor/Experiment Projects：
 
@@ -2681,7 +2681,7 @@ The pattern in our code is an array of byte data type, which is shown in the tab
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on. Then the dot matrix displays a “ smile ”pattern.
 
-## **Comprehensive Experiments**
+## Comprehensive Experiments
 
 The previous projects are related to single sensor or module. In the following part, we will combine various sensors and modules to create some comprehensive experiments to perform special functions.
 
