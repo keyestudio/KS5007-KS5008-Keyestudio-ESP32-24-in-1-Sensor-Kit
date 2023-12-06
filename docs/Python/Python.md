@@ -343,8 +343,12 @@ For ESP32 beginners, we will start with some simple things. In this project, you
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg"  /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/3bdcc62cfa661d2b860a76e28537e21e.png" style="width:1.41667in;height:0.76042in" /></td>
+<td>
+
+![](media/56053f7126905c6def63919c661d5c0a.jpeg)</td>
+<td>
+
+![](media/3bdcc62cfa661d2b860a76e28537e21e.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32*1</td>
@@ -435,11 +439,21 @@ The right one is correct wiring-up diagram. GND and VCC are powered up. When the
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.20833in;height:0.55903in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.40903in;height:1.07917in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/12ecb079cf6481a6f0f04d6b7bb31fd8.png" style="width:1.2in;height:0.93889in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.88056in;height:0.32083in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.83611in;height:0.44792in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/12ecb079cf6481a6f0f04d6b7bb31fd8.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -507,11 +521,21 @@ In previous lesson, we already know how to control an LED. In this part, we only
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.20833in;height:0.55903in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.40903in;height:1.07917in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6ff6e93b37472de2695aefed0939a14e.png" style="width:1.45833in;height:0.801736in" alt="交通灯模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/fc3fd9c0110b04d1af77a2ff8c01a10a.png" style="width:0.95208in;height:0.39861in" alt="5p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.85972in;height:0.36875in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/6ff6e93b37472de2695aefed0939a14e.png)</td>
+<td>
+
+![](media/fc3fd9c0110b04d1af77a2ff8c01a10a.png)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -578,11 +602,21 @@ A“breathing LED”is a phenomenon where an LED's brightness smoothly changes f
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:1.04931in;height:0.76528in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -659,11 +693,21 @@ For our experiment, we will control the RGB module to display different colors t
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/51729b3ba2184cf0ca0d3242199731ad.png" style="width:1.15972in;height:0.88125in" alt="共阴RGB模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/269c154eda332be03643bada56070124.jpeg" style="width:1.03264in;height:0.40278in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/51729b3ba2184cf0ca0d3242199731ad.png)</td>
+<td>
+
+![](media/269c154eda332be03643bada56070124.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -740,11 +784,21 @@ The button module has four pins. The pin 1 is connected to the pin 3 and the pin
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/efcc7b40d80043b7b1f90ceaa8d73639.png" style="width:1.13611in;height:0.84722in" alt="单路按键模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.91736in;height:0.33333in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.99167in;height:0.53125in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/efcc7b40d80043b7b1f90ceaa8d73639.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -817,11 +871,21 @@ When the receiver RX meets the weak signals reflected back, the receiving pin wi
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/b62846d9a80a7e7aed5ffbef0caedf7c.png" style="width:1.24167in;height:0.82083in" alt="避障传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/b62846d9a80a7e7aed5ffbef0caedf7c.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -887,11 +951,21 @@ The working principle is pretty simple. When pin 1 and 2 of the ball switch P1 a
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/f647184fbb638f8e5a92a388ee1a6f2b.png" style="width:1.22847in;height:0.86944in" alt="倾斜传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)></td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/f647184fbb638f8e5a92a388ee1a6f2b.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -960,11 +1034,21 @@ After the disappearance of the outer magnetic reed because of their flexibility 
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/92c44afcc82bb13a14e8438646670cc6.png" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/92c44afcc82bb13a14e8438646670cc6.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1033,11 +1117,21 @@ When one is detected or an infrared signal is received, and pin 1 of the sensor 
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/8712c267aff99cc16c2071398d6632af.png" style="width:1.23125in;height:0.83958in" alt="人体红外热释传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/8712c267aff99cc16c2071398d6632af.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1101,11 +1195,21 @@ When we output a high level from the IO port to the triode, the buzzer will emit
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/a5e355d0fd3c9b18c7684a9a2b99f0a5.png" style="width:1.30625in;height:0.94167in" alt="有源蜂鸣器模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/a5e355d0fd3c9b18c7684a9a2b99f0a5.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1169,11 +1273,21 @@ In fact, it is similar to a passive buzzer. The active buzzer has its own oscill
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/afd2d5f63e3823e1cb941fc73a51d3ac.png" style="width:1.45556in;height:0.77986in" alt="8002b功放 喇叭模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/afd2d5f63e3823e1cb941fc73a51d3ac.png)></td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1362,11 +1476,21 @@ The ESP32 has two 8-bit digital-to-analog converters connected to GPIO25 and GPI
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/9d866a71104fb3cf1826c41c3c940ba8.png" style="width:1.25in;height:0.86667in" alt="旋转电位器传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/9d866a71104fb3cf1826c41c3c940ba8.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1473,11 +1597,21 @@ It uses a high-sensitive microphone component and an LM386 chip. We build the ci
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6406b86b355b4986a8b2ec74f770c2ba.png" style="width:1.19167in;height:0.92292in" alt="声音传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/6406b86b355b4986a8b2ec74f770c2ba.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1544,11 +1678,21 @@ If there is no light, the resistance is 0.2MΩ and the detected voltage at the s
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/21847f439e9532462a71d11921112a66.png" style="width:1.12222in;height:0.82986in" alt="光敏电阻传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/21847f439e9532462a71d11921112a66.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1620,11 +1764,21 @@ This sensor uses the characteristics of NTC-MF52AT thermistor element to convert
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/481d8a887573a4aeeb9a61a8f5b1fe6f.png" style="width:1.24236in;height:0.83889in" alt="模拟温度传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/481d8a887573a4aeeb9a61a8f5b1fe6f.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1693,11 +1847,21 @@ When the sensor is pressed by external forces, the resistance value of sensor wi
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/84d460c90f09b3f3baa5819ab8655e87.png" style="width:0.375in;height:1.21042in" alt="薄膜压力传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/84d460c90f09b3f3baa5819ab8655e87.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1769,11 +1933,21 @@ In fact, its working principle is very simple. Its inside structure is equivalen
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/1f5bf5d8d48c675b98dd2cbfca6c31b7.png" style="width:1.38819in;height:0.73681in" alt="摇杆模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/fc3fd9c0110b04d1af77a2ff8c01a10a.png" style="width:0.95208in;height:0.39861in" alt="5p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/1f5bf5d8d48c675b98dd2cbfca6c31b7.png)</td>
+<td>
+
+![](media/fc3fd9c0110b04d1af77a2ff8c01a10a.png)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1855,11 +2029,21 @@ The data protocol adopts a single-wire zero-code communication method. After the
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/42e093202e7233aaaa42b9ac64f51d98.png" style="width:1.26111in;height:0.875in" alt="6812 RGB模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/42e093202e7233aaaa42b9ac64f51d98.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -1948,11 +2132,21 @@ The incremental encoder converts the displacement into a periodic elect
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/989ee8ccd2a016dcaeb0bef68d55e912.png" style="width:1.27708in;height:0.73264in" alt="旋转编码器模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/fc3fd9c0110b04d1af77a2ff8c01a10a.png" style="width:0.95208in;height:0.39861in" alt="5p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.94653in;height:0.41806in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/989ee8ccd2a016dcaeb0bef68d55e912.png)</td>
+<td>
+
+![](media/fc3fd9c0110b04d1af77a2ff8c01a10a.png)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -2053,10 +2247,18 @@ The rotation angle of servo motor is controlled by regulating the duty cycle of 
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/b9a96e60ed3aee985db5d4dcaf9bf38b.png" style="width:1.05764in;height:1.25in" alt="舵机" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/b9a96e60ed3aee985db5d4dcaf9bf38b.png)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -2196,11 +2398,21 @@ The HC-SR04 ultrasonic ranging module can provide a non-contact distance sensing
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/1a1dc36771654248ade08b9d9f115f57.png" style="width:1.42292in;height:0.80903in" alt="超声波模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/269c154eda332be03643bada56070124.jpeg" style="width:0.91458in;height:0.35625in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/1a1dc36771654248ade08b9d9f115f57.png)</td>
+<td>
+
+![](media/269c154eda332be03643bada56070124.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -2288,12 +2500,24 @@ The main part of the IR remote control system is modulation, transmission and re
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/06218167222e41c71cdcec1c9dc08982.png" style="width:1.24444in;height:0.75069in" alt="红外接收模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.97708in;height:0.52431in" alt="USB线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/10ccf14d80feba64bba0c1eacd02b09d.png" style="width:0.87986in;height:0.425in" alt="遥控器" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/06218167222e41c71cdcec1c9dc08982.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
+<td>
+
+![](media/10ccf14d80feba64bba0c1eacd02b09d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*11</td>
@@ -2422,11 +2646,22 @@ SQW/OUT：square waves/output drivers
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/44d6a0e867ad07a9a9733ce42a9d488a.png" style="width:1.40208in;height:0.74444in" alt="KS6072 keyestudio传感器 keyestudio 2021新款 DIY电子积木 DS1307时钟传感器模块 黑色环保 矢量图" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/269c154eda332be03643bada56070124.jpeg" style="width:0.91458in;height:0.35625in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/44d6a0e867ad07a9a9733ce42a9d488a.png)</td>
+<td>
+
+![](media/269c154eda332be03643bada56070124.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -2553,11 +2788,21 @@ bit\[0\]：start the display of the tube display
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/f47b077303226cce504ea7734826dfc9.png" style="width:0.94514in;height:0.52569in" alt="四位数码管模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/269c154eda332be03643bada56070124.jpeg" style="width:0.91458in;height:0.35625in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/f47b077303226cce504ea7734826dfc9.png)</td>
+<td>
+
+![](media/269c154eda332be03643bada56070124.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -2805,11 +3050,21 @@ There are three DIP switches on the module, all of which are set to I2C communic
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/713307c9cb50d067a014dee9522afe15.png" style="width:0.99722in;height:0.49861in" alt="_8X8点阵模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/269c154eda332be03643bada56070124.jpeg" style="width:0.91458in;height:0.35625in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/713307c9cb50d067a014dee9522afe15.png)</td>
+<td>
+
+![](media/269c154eda332be03643bada56070124.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -2888,12 +3143,24 @@ In this lesson, we will make an extension experiment with a button and an LED. W
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.07222in;height:0.82083in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:1.06944in;height:0.75972in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/1aafa8910f5184973f1c913c19489fbd.png" style="width:1.07292in;height:0.76389in" alt="单路按键模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png)</td>
+<td>
+
+![](media/1aafa8910f5184973f1c913c19489fbd.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -2957,12 +3224,24 @@ In the previous experiment, we control an output module though an input module. 
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.65278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.05556in;height:0.80833in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/ac83d2c470cd6c345f17feed3bce5358.png" style="width:1.05903in;height:0.70556in" alt="避障传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/cbc890daba907eee365bdaacf1f509a8.png" style="width:1.03056in;height:0.70764in" alt="有源蜂鸣器模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.08819in;height:0.45208in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/ac83d2c470cd6c345f17feed3bce5358.png)</td>
+<td>
+
+![](media/cbc890daba907eee365bdaacf1f509a8.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -3014,10 +3293,18 @@ In this experiment, we use a PIR motion sensor to control an active buzzer to em
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/256a8301b740dfb2981a635a4b575ba0.png" style="width:1.07361in;height:0.76458in" alt="人体红外热释传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/cbc890daba907eee365bdaacf1f509a8.png" style="width:1.09028in;height:0.7875in" alt="有源蜂鸣器模块" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/256a8301b740dfb2981a635a4b575ba0.png)</td>
+<td>
+
+![](media/cbc890daba907eee365bdaacf1f509a8.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -3026,9 +3313,15 @@ In this experiment, we use a PIR motion sensor to control an active buzzer to em
 <td>Keyestudio DIY Active Buzzer*1</td>
 </tr>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/12ecb079cf6481a6f0f04d6b7bb31fd8.png" style="width:1.00417in;height:0.73889in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.89722in;height:0.37292in" alt="USB线" /></td>
+<td>
+
+![](media/12ecb079cf6481a6f0f04d6b7bb31fd8.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3098,10 +3391,18 @@ When designing the code, we need to divide the obtained values by 3 to get the r
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/eb9d1b363af72bc105ce38cb9e4d99b1.png" style="width:1.03472in;height:0.78125in" alt="共阴RGB模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/989ee8ccd2a016dcaeb0bef68d55e912.png" style="width:1.17708in;height:0.73264in" alt="旋转编码器模块" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/eb9d1b363af72bc105ce38cb9e4d99b1.png)</td>
+<td>
+
+![](media/989ee8ccd2a016dcaeb0bef68d55e912.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32Board*1</td>
@@ -3112,9 +3413,15 @@ When designing the code, we need to divide the obtained values by 3 to get the r
 <p>Rotary Encoder Module*1</p></td>
 </tr>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/fc3fd9c0110b04d1af77a2ff8c01a10a.png" style="width:1.36736in;height:0.57361in" alt="5p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/269c154eda332be03643bada56070124.jpeg" style="width:1.46875in;height:0.57222in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.89722in;height:0.37292in" alt="USB线" /></td>
+<td>
+
+![](media/fc3fd9c0110b04d1af77a2ff8c01a10a.png)</td>
+<td>
+
+![](media/269c154eda332be03643bada56070124.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3209,12 +3516,24 @@ After the code is set successfully, we can control the brightness of the LED on 
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.55278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.01528in;height:0.77708in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:1.0375in;height:0.74931in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/a0eebfcd8f84c3fbac526e9910e66692.png" style="width:1.11667in;height:0.82292in" alt="旋转电位器传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png)</td>
+<td>
+
+![](media/a0eebfcd8f84c3fbac526e9910e66692.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -3277,12 +3596,24 @@ In this lesson, we will make a smart sound activated light using a sound sensor 
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:0.925in;height:0.42917in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:0.97569in;height:0.74792in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/cf7b54ba090f4e34025101cf9ece26d1.png" style="width:1.00903in;height:0.7125in" alt="声音传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:1.02153in;height:0.72847in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.94583in;height:0.44375in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/cf7b54ba090f4e34025101cf9ece26d1.png)</td>
+<td>
+
+![](media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -3350,11 +3681,21 @@ We know that bats use echoes to determine the direction and the location of thei
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.09028in;height:0.83542in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/4a358f0f161b2e4dcae43f9315902ef3.png" style="width:1.02986in;height:0.56806in" alt="超声波模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/1ef2dd7f7fd91d208e726ef074a02dca.png" style="width:1.32986in;height:0.71667in" alt="8002b功放 喇叭模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/eb9d1b363af72bc105ce38cb9e4d99b1.png" style="width:1.03542in;height:0.68264in" alt="共阴RGB模块" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/4a358f0f161b2e4dcae43f9315902ef3.png)</td>
+<td>
+
+![](media/1ef2dd7f7fd91d208e726ef074a02dca.png)</td>
+<td>
+
+![](media/eb9d1b363af72bc105ce38cb9e4d99b1.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -3364,10 +3705,18 @@ We know that bats use echoes to determine the direction and the location of thei
 <td>Keyestudio DIY Common Cathode RGB Module *1</td>
 </tr>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/8f646a7dfa38852a8eccb5e85eb7341a.png" style="width:1.02917in;height:0.57222in" alt="四位数码管模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/269c154eda332be03643bada56070124.jpeg" style="width:1.02292in;height:0.39861in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.94583in;height:0.44375in" alt="USB线" /></td>
+<td>
+
+![](media/8f646a7dfa38852a8eccb5e85eb7341a.png)</td>
+<td>
+
+![](media/269c154eda332be03643bada56070124.jpeg)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3637,10 +3986,18 @@ In the previous experiments, we learned how to turn on/off the LED and adjust it
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:1.17292in;height:0.79792in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d2903250f8e18898973c545ca497393.png" style="width:1.17639in;height:0.79375in" alt="红外接收模块" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png)</td>
+<td>
+
+![](media/6d2903250f8e18898973c545ca497393.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -3649,9 +4006,15 @@ In the previous experiments, we learned how to turn on/off the LED and adjust it
 <td>Keyestudio DIY IR Receiver*1</td>
 </tr>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.94583in;height:0.44375in" alt="USB线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/10ccf14d80feba64bba0c1eacd02b09d.png" style="width:1.3in;height:0.62847in" alt="遥控器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
+<td>
+
+![](media/10ccf14d80feba64bba0c1eacd02b09d.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3765,8 +4128,12 @@ ESP32 has three different WiFi modes: Station mode, AP mode and AP+Station mode.
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/729232b0c2d2c01984808289b222890c.png" style="width:1.8125in;height:0.86458in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/53f17b0de2d98d4714e8fe9043a346ca.jpeg"  /></td>
+<td>
+
+![](media/729232b0c2d2c01984808289b222890c.png)</td>
+<td>
+
+![](media/53f17b0de2d98d4714e8fe9043a346ca.jpeg)</td>
 </tr>
 <tr class="even">
 <td>USB Cable x1</td>
@@ -3846,8 +4213,12 @@ In this project, we are going to learn the WiFi AP mode of the ESP32.
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/729232b0c2d2c01984808289b222890c.png" style="width:1.8125in;height:0.86458in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/53f17b0de2d98d4714e8fe9043a346ca.jpeg" /></td>
+<td>
+
+![](media/729232b0c2d2c01984808289b222890c.png)</td>
+<td>
+
+![](media/53f17b0de2d98d4714e8fe9043a346ca.jpeg)</td>
 </tr>
 <tr class="even">
 <td>USB Cable x1</td>
@@ -3932,8 +4303,12 @@ In this project, we are going to learn the AP+Station mode of the ESP32.
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/729232b0c2d2c01984808289b222890c.png" style="width:1.8125in;height:0.86458in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/53f17b0de2d98d4714e8fe9043a346ca.jpeg" /></td>
+<td>
+
+![](media/729232b0c2d2c01984808289b222890c.png)</td>
+<td>
+
+![](media/53f17b0de2d98d4714e8fe9043a346ca.jpeg)</td>
 </tr>
 <tr class="even">
 <td>USB Cable x1</td>
@@ -4027,11 +4402,21 @@ We did a lot of experiments, and for each one we needed to re-upload the code, s
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:1.27292in;height:0.89722in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/1aafa8910f5184973f1c913c19489fbd.png" style="width:1.27708in;height:0.90347in" alt="单路按键模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/a0eebfcd8f84c3fbac526e9910e66692.png" style="width:1.26319in;height:0.88472in" alt="旋转电位器传感器" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png)</td>
+<td>
+
+![](media/1aafa8910f5184973f1c913c19489fbd.png)</td>
+<td>
+
+![](media/a0eebfcd8f84c3fbac526e9910e66692.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
@@ -4041,11 +4426,21 @@ We did a lot of experiments, and for each one we needed to re-upload the code, s
 <td>Keyestudio Rotary Potentiometer*1</td>
 </tr>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/b62846d9a80a7e7aed5ffbef0caedf7c.png" style="width:1.24167in;height:0.92083in" alt="避障传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/fb4fa5fdd5689ded9c213ba5ceb34c0d.png" style="width:1.24097in;height:0.71319in" alt="摇杆模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/4a358f0f161b2e4dcae43f9315902ef3.png" style="width:1.27847in;height:0.63958in" alt="超声波模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/51729b3ba2184cf0ca0d3242199731ad.png" style="width:1.25972in;height:0.88125in" alt="共阴RGB模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.07361in;height:0.42778in" alt="USB线" /></td>
+<td>
+
+![](media/b62846d9a80a7e7aed5ffbef0caedf7c.png)</td>
+<td>
+
+![](media/fb4fa5fdd5689ded9c213ba5ceb34c0d.png)</td>
+<td>
+
+![](media/4a358f0f161b2e4dcae43f9315902ef3.png)</td>
+<td>
+
+![](media/51729b3ba2184cf0ca0d3242199731ad.png)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>Keyestudio Obstacle Avoidance Sensor*1</td>
@@ -4055,9 +4450,15 @@ We did a lot of experiments, and for each one we needed to re-upload the code, s
 <td>MicroUSB Cable*1</td>
 </tr>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:1.10069in;height:0.40069in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/269c154eda332be03643bada56070124.jpeg" style="width:1.14722in;height:0.44722in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Python/master/media/fc3fd9c0110b04d1af77a2ff8c01a10a.png" style="width:1.10417in;height:0.46319in" alt="5p线" /></td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/269c154eda332be03643bada56070124.jpeg)</td>
+<td>
+
+![](media/fc3fd9c0110b04d1af77a2ff8c01a10a.png)</td>
 <td></td>
 <td></td>
 </tr>

@@ -1570,6 +1570,7 @@ In the experiment, we determine the pressure by collecting the analog signal on 
 When the sensor is pressed by external forces, the resistance value of sensor will vary. We convert the pressure signals detected by the sensor into the electric signals through a circuit. Then we can obtain the pressure changes by detecting voltage signal changes.
 
 ![](media/520fa537602873d2a337731318668348.png)
+
 **Components**
 
 ![image-20231020083831067](./media/image-20231020083831067.png)
@@ -3336,7 +3337,7 @@ This chapter mainly introduces how to use the bluetooth of ESP32 for simple data
 
 **Components**
 
-| ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps37.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps38.png) |
+| ![](media/wps4.jpg) | ![](media/wps5.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Micro USB Cable*1                                            | ESP32*1                                                      |
 
@@ -3355,7 +3356,7 @@ Bluetooth is a short-distance communication system that can be divided into two 
 
 **Slave Mode**: A bluetooth module in the slave mode can only accept connection requests from the host, but cannot initiate connection requests. After being connected to a host device, it can send and receive data through the host device. Bluetooth devices can interact with each other, when they interact, the bluetooth device in the main mode searches for nearby devices. While a connection is established, they can exchange data. For example, when a mobile phone exchanges data with ESP32, the mobile phone is usually in master mode and the ESP32 is in slave mode.  
 
-​    ![img](media/wps1.jpg)         ![img](media/wps2.png)
+​    ![](media/wps1.jpg)         ![](media/wps2.png)
 
 ​       master mode                slave mode
 
@@ -3363,7 +3364,7 @@ Bluetooth is a short-distance communication system that can be divided into two 
 
 We can use a USB cable to connect ESP32 mainboard to the USB port on a computer.
 
-![img](media/wps3.png)![img](media/wps4.jpg)      ![img](media/wps5.png)
+![](media/wps3.png)![](media/wps4.jpg)      ![](media/wps5.png)
 
 
 
@@ -3518,9 +3519,9 @@ ESP32 has three different WiFi modes: Station mode, AP mode and AP+Station mode.
 
 **Components**
 
-| ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps39.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps40.png) |
+| ![](media/wps4.jpg) | ![](media/wps5.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| MicroUSB Cable*1                                             | ESP32*1                                                      |
+| Micro USB Cable*1                                            | ESP32*1                                                      |
 
 **Wiring Diagram**
 
@@ -3598,9 +3599,9 @@ In this project, we are going to learn the WiFi AP mode of the ESP32.
 
 **Components**
 
-| ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps41.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps42.png) |
+| ![](media/wps4.jpg) | ![](media/wps5.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| MicroUSB Cable*1                                             | ESP32*1                                                      |
+| Micro USB Cable*1                                            | ESP32*1                                                      |
 
 **Wiring Diagram**
 
@@ -3688,16 +3689,16 @@ In this project, we are going to learn the AP+Station mode of the ESP32.
 
 **Components**
 
-| ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps43.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps44.png) |
+| ![](media/wps4.jpg) | ![](media/wps5.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| MicroUSB Cable*1                                             | ESP32*1                                                      |
+| Micro USB Cable*1                                            | ESP32*1                                                      |
 
 
 **Wiring Diagram**
 
 Plug the ESP32 mainboard to the USB port of your PC
 
-![img](media/wps10-16860132131696.jpg)![img](media/wps9-16860132131684.png)      ![img](media/wps11-16860132131695.png)
+![](media/wps10-16860132131696.jpg)![](media/wps9-16860132131684.png)      ![](media/wps11-16860132131695.png)
 
 **Component Knowledge**
 
@@ -3782,13 +3783,13 @@ We did a lot of experiments, and for each one we needed to re-upload the code, s
 
 **Components Required**
 
-| ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps45.jpg) | ***\*![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps46.png)\**** | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps47.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps48.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps49.jpg) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ESP32 Board*1                                                | ESP32 Expansion Board*11                                     | Keyestudio DIY Purple LED Module*1                           | Keyestudio  Button Module*1                                  | Keyestudio Rotary Potentiometer*1                            |
-| ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps50.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps51.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps52.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps53.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps54.jpg) |
-| Keyestudio Obstacle Avoidance Sensor*1                       | Keyestudio DIY Joystick Module*1                             | Keyestudio HC-SR04 Ultrasonic sensor *1                      | Keyestudio DIY Common Cathode RGB Module *1                  | MicroUSB Cable*1                                             |
-| ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps55.png) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps56.png) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11976\wps57.jpg) |                                                              |                                                              |
-| 3PDupont Wire*4                                              | 4PDupont Wire*1                                              | 5PDupont Wire*1                                              |                                                              |                                                              |
+| ![](media/wps5.png)         |  ![](media/wps46.png)              |  ![](media/wps47.png)     | ![](media/wps48.png)         | ![](media/wps49.png)       |
+| --------------              | ---------------------              | ---------------------     | ------------------------     | ---------------            |
+| ESP32 Board*1               | ESP32 Expansion Board*11           | Purple LED Module*1       |  Button Module*1             | Rotary Potentiometer*1     |
+| ![](media/wps50.png)        | ![](media/wps51.png)               | ![](media/wps52.png)      | ![](media/wps53.png)         |  ![](media/wps4.jpg)       |
+| Obstacle Avoidance Sensor*1 | Joystick Module*1                  |Ultrasonic sensor *1       | RGB Module *1                | MicroUSB Cable*1           |
+| ![](media/wps55.jpeg)       | ![](media/wps56.jpeg)              | ![](media/wps57.png)      |                              |                            |
+| 3PDupont Wire*4             | 4PDupont Wire*1                    | 5PDupont Wire*1           |                              |                            |
 
 
 **Wiring Diagram**

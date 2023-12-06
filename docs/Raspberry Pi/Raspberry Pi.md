@@ -342,8 +342,12 @@ Now, we finish the basic configuration of the Raspberry Pi OS.
 <td><strong>Raspberry Pi 4B Model</strong></td>
 </tr>
 <tr class="even">
-<td><img src="media/906942071bae7f818bf39db600c7eca2.png" style="width:2.30208in;height:3.42708in" /></td>
-<td><img src="media/67ac8e458430628f26cef46f04be3979.png" style="width:2.36458in;height:3.45833in" /></td>
+<td>
+
+![](media/906942071bae7f818bf39db600c7eca2.png)</td>
+<td>
+
+![](media/67ac8e458430628f26cef46f04be3979.png)</td>
 </tr>
 </tbody>
 </table>
@@ -559,18 +563,9 @@ For ESP32 beginners, we will start with some simple things. In this project, you
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:1.56875in;height:0.76528in" alt="ks0413-3(1)" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/3bdcc62cfa661d2b860a76e28537e21e.png" style="width:1.41667in;height:0.76042in" /></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20231113151026574](media/image-20231113151026574.png) | ![image-20231113151032312](media/image-20231113151032312.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | USB Cable*1                                                  |
 
 **Wiring Diagram：**
 
@@ -659,25 +654,7 @@ The right one is correct wiring-up diagram. GND and VCC are powered up. When the
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.20833in;height:0.55903in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.40903in;height:1.07917in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/12ecb079cf6481a6f0f04d6b7bb31fd8.png" style="width:0.70417in;height:0.93889in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.88056in;height:0.32083in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.83611in;height:0.44792in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Purple LED Module*1</td>
-<td>3P Dupont Wire*1</td>
-<td><p>Micro</p>
-<p>USB Cable*1</p></td>
-</tr>
-</tbody>
-</table>
+![image-20231020082906527](./media/image-20231020082906527.png)
 
 **Wiring Diagram**
 
@@ -743,24 +720,7 @@ In previous lesson, we already know how to control an LED. In this part, we only
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6ff6e93b37472de2695aefed0939a14e.png" style="width:0.55833in;height:1.11736in" alt="交通灯模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/fc3fd9c0110b04d1af77a2ff8c01a10a.png" style="width:0.95208in;height:0.39861in" alt="5p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.02917in;height:0.55139in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DIY Traffic Lights Module*1</td>
-<td>5P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020082955449](./media/image-20231020082955449.png)
 
 **Wiring Diagram**
     
@@ -827,24 +787,7 @@ A“breathing LED”is a phenomenon where an LED's brightness smoothly changes f
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:0.64931in;height:0.86528in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Purple LED Module*1</td>
-<td>3P Dupont Wire*1</td>
-<td>MicroUSB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083030398](./media/image-20231020083030398.png)
 
 **Connection Diagram**
 
@@ -912,24 +855,7 @@ For our experiment, we will control the RGB module to display different colors t
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/51729b3ba2184cf0ca0d3242199731ad.png" style="width:0.65972in;height:0.88125in" alt="共阴RGB模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/269c154eda332be03643bada56070124.jpeg" style="width:1.03264in;height:0.40278in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Common Cathode RGB Module *1</td>
-<td>4P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083108828](./media/image-20231020083108828.png)
 
 **Connection Diagram**
     
@@ -995,24 +921,7 @@ The button module has four pins. The pin 1 is connected to the pin 3 and the pin
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/efcc7b40d80043b7b1f90ceaa8d73639.png" style="width:0.63611in;height:0.84722in" alt="单路按键模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.91736in;height:0.33333in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.99167in;height:0.53125in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DIY Button Module*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083206539](./media/image-20231020083206539.png)
 
 **Connection Diagram**
 
@@ -1092,24 +1001,7 @@ When the receiver RX meets the weak signals reflected back, the receiving pin wi
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/b62846d9a80a7e7aed5ffbef0caedf7c.png" style="width:0.64167in;height:0.92083in" alt="避障传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DIY Obstacle Avoidance Sensor*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083251429](./media/image-20231020083251429.png)
 
 **Connection Diagram**
 
@@ -1181,25 +1073,7 @@ The working principle is pretty simple. When pin 1 and 2 of the ball switch P1 a
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/f647184fbb638f8e5a92a388ee1a6f2b.png" style="width:0.72847in;height:0.96944in" alt="倾斜传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td><p>Keyestudio</p>
-<p>Tilt Sensor*1</p></td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083327496](./media/image-20231020083327496.png)
 
 **Connection Diagram**
 
@@ -1265,24 +1139,7 @@ After the disappearance of the outer magnetic reed because of their flexibility 
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/92c44afcc82bb13a14e8438646670cc6.png" style="width:0.66875in;height:0.88611in" alt="干簧管模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DIY Reed Switch Module*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083358482](./media/image-20231020083358482.png)
 
 **Connection Diagram**
 
@@ -1355,24 +1212,7 @@ When one is detected or an infrared signal is received, and pin 1 of the sensor 
 
 **Required Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/8712c267aff99cc16c2071398d6632af.png" style="width:0.63125in;height:0.83958in" alt="人体红外热释传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DIY PIR Motion Sensor*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083431946](./media/image-20231020083431946.png)
 
 **Connection Diagram**
 
@@ -1443,24 +1283,7 @@ When we output a high level from the IO port to the triode, the buzzer will emit
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/a5e355d0fd3c9b18c7684a9a2b99f0a5.png" style="width:0.70625in;height:0.94167in" alt="有源蜂鸣器模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Active Buzzer*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083504120](./media/image-20231020083504120.png)
 
 **Connection Diagram**
 
@@ -1521,24 +1344,7 @@ In fact, it is similar to a passive buzzer. The active buzzer has its own oscill
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/afd2d5f63e3823e1cb941fc73a51d3ac.png" style="width:0.95556in;height:0.47986in" alt="8002b功放 喇叭模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio 8002b Audio Power Amplifier*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083535141](./media/image-20231020083535141.png)
 
 **Connection Diagram**
 
@@ -1730,24 +1536,7 @@ The ESP32 has two 8-bit digital-to-analog converters connected to GPIO25 and GPI
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/9d866a71104fb3cf1826c41c3c940ba8.png" style="width:0.65in;height:0.86667in" alt="旋转电位器传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Rotary Potentiometer*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083612643](./media/image-20231020083612643.png)
 
 **Connection Diagram**
 
@@ -1818,24 +1607,7 @@ It uses a high-sensitive microphone component and an LM386 chip. We build the ci
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6406b86b355b4986a8b2ec74f770c2ba.png" style="width:0.69167in;height:0.92292in" alt="声音传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DIY Sound Sensor*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083651019](./media/image-20231020083651019.png)
 
 **Connection Diagram**
 
@@ -1898,24 +1670,7 @@ If there is no light, the resistance is 0.2MΩ and the detected voltage at the t
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/21847f439e9532462a71d11921112a66.png" style="width:0.62222in;height:0.82986in" alt="光敏电阻传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DIY Photoresistor*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083727162](./media/image-20231020083727162.png)
 
 **Connection Diagram**
 
@@ -1981,24 +1736,7 @@ This sensor uses the characteristics of NTC-MF52AT thermistor element to convert
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/481d8a887573a4aeeb9a61a8f5b1fe6f.png" style="width:0.64236in;height:0.93889in" alt="模拟温度传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio NTC-MF52AT Thermistor*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083759906](./media/image-20231020083759906.png)
 
 **Connection Diagram**
 
@@ -2057,25 +1795,7 @@ When the sensor is pressed by external forces, the resistance value of sensor wi
 
 ![](media/520fa537602873d2a337731318668348.png)**3. Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/84d460c90f09b3f3baa5819ab8655e87.png" style="width:0.375in;height:1.21042in" alt="薄膜压力传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td><p>Keyestudio</p>
-<p>Thin-film Pressure Sensor*1</p></td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083831067](./media/image-20231020083831067.png)
 
 **Connection Diagram**
 
@@ -2137,24 +1857,7 @@ In fact, its working principle is very simple. Its inside structure is equivalen
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/1f5bf5d8d48c675b98dd2cbfca6c31b7.png" style="width:1.08819in;height:0.53681in" alt="摇杆模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/fc3fd9c0110b04d1af77a2ff8c01a10a.png" style="width:0.95208in;height:0.39861in" alt="5p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Joystick Module*1</td>
-<td>5P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083906918](./media/image-20231020083906918.png)
 
 **Connection Diagram**
 
@@ -2228,24 +1931,7 @@ The data protocol adopts a single-wire zero-code communication method. After the
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/42e093202e7233aaaa42b9ac64f51d98.png" style="width:0.66111in;height:0.875in" alt="6812 RGB模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio 6812 RGB Module*1</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083937380](./media/image-20231020083937380.png)
 
 **Connection Diagram**
 
@@ -2414,24 +2100,7 @@ This module mainly uses 20 pulse rotary encoder components.  It can ca
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/989ee8ccd2a016dcaeb0bef68d55e912.png" style="width:0.97708in;height:0.73264in" alt="旋转编码器模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/fc3fd9c0110b04d1af77a2ff8c01a10a.png" style="width:0.95208in;height:0.39861in" alt="5p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.94653in;height:0.41806in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Rotary Encoder*1</td>
-<td>5P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020084010680](./media/image-20231020084010680.png)
 
 **Connection Diagram**
 
@@ -2540,22 +2209,7 @@ The rotation angle of servo motor is controlled by regulating the duty cycle of 
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/b9a96e60ed3aee985db5d4dcaf9bf38b.png" style="width:1.05764in;height:1.05in" alt="舵机" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Servo*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020084432436](./media/image-20231020084432436.png)
 
 **4. Connection Diagram**
 
@@ -2691,24 +2345,7 @@ Test distance = high level duration \* 340m/s \* 0.5.
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/1a1dc36771654248ade08b9d9f115f57.png" style="width:0.92292in;height:0.50903in" alt="超声波模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/269c154eda332be03643bada56070124.jpeg" style="width:0.91458in;height:0.35625in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>keyestudio SR01 Ultrasonic Sensor*1</td>
-<td>4P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020084555249](./media/image-20231020084555249.png)
 
 **Connection Diagram**
 
@@ -2783,27 +2420,7 @@ The main part of the IR remote control system is modulation, transmission and re
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>\<img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/06218167222e41c71cdcec1c9dc08982.png" style="width:0.64444in;height:0.85069in" alt="红外接收模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.97708in;height:0.52431in" alt="USB线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/10ccf14d80feba64bba0c1eacd02b09d.png" style="width:0.87986in;height:0.425in" alt="遥控器" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*11</td>
-<td>ESP32 Expansion Board*1</td>
-<td><p>Keyestudio DIY</p>
-<p>IR Receiver*1</p></td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-<td>Remote Control*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020084724585](./media/image-20231020084724585.png)
 
 **Connection Diagram**
 
@@ -2892,24 +2509,7 @@ SQW/OUT：square waves/output drivers
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/44d6a0e867ad07a9a9733ce42a9d488a.png" style="width:0.90208in;height:0.44444in" alt="KS6072 keyestudio传感器 keyestudio 2021新款 DIY电子积木 DS1307时钟传感器模块 黑色环保 矢量图" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/269c154eda332be03643bada56070124.jpeg" style="width:0.91458in;height:0.35625in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DS1307 Clock Module*1</td>
-<td>4P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![](media/949abbbea3c8d8b36463768a39a07b51.png)
 
 **Connection Diagram**
 
@@ -3031,24 +2631,7 @@ bit\[0\]: start the display of the tube display
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/f47b077303226cce504ea7734826dfc9.png" style="width:0.94514in;height:0.52569in" alt="四位数码管模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/269c154eda332be03643bada56070124.jpeg" style="width:0.91458in;height:0.35625in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio TM16504-Digit Segment Display*1</td>
-<td>4P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020084838500](./media/image-20231020084838500.png)
 
 **Connection Diagram**
 
@@ -3277,25 +2860,7 @@ There are three DIP switches on the module, all of which are set to I2C communic
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/713307c9cb50d067a014dee9522afe15.png" style="width:0.99722in;height:0.49861in" alt="_8X8点阵模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/269c154eda332be03643bada56070124.jpeg" style="width:0.91458in;height:0.35625in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td><p>Keyestudio HT16K33_</p>
-<p>8X8 Dot Matrix*1</p></td>
-<td>4P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020084953275](./media/image-20231020084953275.png)
 
 **Connection Diagram**
 
@@ -3457,26 +3022,7 @@ In this lesson, we will make an extension experiment with a button and an LED. W
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.07222in;height:0.82083in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:0.56944in;height:0.75972in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/1aafa8910f5184973f1c913c19489fbd.png" style="width:0.57292in;height:0.76389in" alt="单路按键模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Purple LED Module*1</td>
-<td>Keyestudio DIY Button Module*1</td>
-<td>3P Dupont Wire*2</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020085222290](./media/image-20231020085222290.png)
 
 **Connection Diagram**
 
@@ -3535,26 +3081,7 @@ In the previous experiment, we control an output module though an input module. 
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.05556in;height:0.80833in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/ac83d2c470cd6c345f17feed3bce5358.png" style="width:0.55903in;height:0.80556in" alt="避障传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/cbc890daba907eee365bdaacf1f509a8.png" style="width:0.53056in;height:0.70764in" alt="有源蜂鸣器模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.08819in;height:0.45208in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Obstacle Avoidance Sensor*1</td>
-<td>Keyestudio Active Buzzer*1</td>
-<td>3P Dupont Wire*2</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020085302954](./media/image-20231020085302954.png)
 
 **Connection Diagram**
 
@@ -3609,34 +3136,7 @@ In this experiment, we use a PIR motion sensor to control an active buzzer to em
 
 **Required Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/256a8301b740dfb2981a635a4b575ba0.png" style="width:0.57361in;height:0.76458in" alt="人体红外热释传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/cbc890daba907eee365bdaacf1f509a8.png" style="width:0.59028in;height:0.7875in" alt="有源蜂鸣器模块" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DIY PIR Motion Sensor*1</td>
-<td>Keyestudio DIY Active Buzzer*1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/12ecb079cf6481a6f0f04d6b7bb31fd8.png" style="width:0.70417in;height:0.93889in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.89722in;height:0.37292in" alt="USB线" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Keyestudio Purple LED Module*1</td>
-<td>3P Dupont Wire*3</td>
-<td>Micro USB Cable*1</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![image-20231020085335159](./media/image-20231020085335159.png)
 
 **Connection Diagram**
 
@@ -3695,36 +3195,7 @@ When designing the code, we need to divide the obtained values by 3 to get the r
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/eb9d1b363af72bc105ce38cb9e4d99b1.png" style="width:0.73472in;height:0.98125in" alt="共阴RGB模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/989ee8ccd2a016dcaeb0bef68d55e912.png" style="width:0.97708in;height:0.73264in" alt="旋转编码器模块" /></td>
-</tr>
-<tr class="even">
-<td>ESP32Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td><p>Keyestudio</p>
-<p>Common Cathode RGB Module*1</p></td>
-<td><p>Keyestudio</p>
-<p>Rotary Encoder Module*1</p></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/fc3fd9c0110b04d1af77a2ff8c01a10a.png" style="width:1.36736in;height:0.57361in" alt="5p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/269c154eda332be03643bada56070124.jpeg" style="width:1.46875in;height:0.57222in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.89722in;height:0.37292in" alt="USB线" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>5P Dupont Wire*1</td>
-<td>4P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![image-20231020085412325](./media/image-20231020085412325.png)
 
 **Connection Diagram**
 
@@ -3852,26 +3323,7 @@ After the code is set successfully, we can control the brightness of the LED on 
 
 **Required Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.01528in;height:0.77708in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:0.6375in;height:0.84931in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/a0eebfcd8f84c3fbac526e9910e66692.png" style="width:0.61667in;height:0.82292in" alt="旋转电位器传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.18819in;height:0.63681in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Purple LED*1</td>
-<td>Keyestudio Rotary Potentiometer*1</td>
-<td>3P Dupont Wire*2</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020085536967](./media/image-20231020085536967.png)
 
 **Connection Diagram**
 
@@ -3926,27 +3378,7 @@ automatically turn on; when there is no sound, the light will automatically turn
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:0.925in;height:0.42917in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:0.97569in;height:0.74792in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/cf7b54ba090f4e34025101cf9ece26d1.png" style="width:0.60903in;height:0.8125in" alt="声音传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:0.62153in;height:0.82847in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.94583in;height:0.44375in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Sound Sensor*1</td>
-<td>Keyestudio Purple LED Module*1</td>
-<td>3P Dupont Wire*2</td>
-<td><p>MicroUSB</p>
-<p>Cable*1</p></td>
-</tr>
-</tbody>
-</table>
+![image-20231020085612240](./media/image-20231020085612240.png)
 
 **Connection Diagram**
 
@@ -4011,38 +3443,7 @@ In this experiment, we will use a speaker module, an RGB module and a 4-digit tu
 
 **Required Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.09028in;height:0.83542in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/4a358f0f161b2e4dcae43f9315902ef3.png" style="width:1.02986in;height:0.56806in" alt="超声波模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/1ef2dd7f7fd91d208e726ef074a02dca.png" style="width:1.02986in;height:0.51667in" alt="8002b功放 喇叭模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/eb9d1b363af72bc105ce38cb9e4d99b1.png" style="width:0.73542in;height:0.98264in" alt="共阴RGB模块" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio HC-SR04 Ultrasonic Sensor*1</td>
-<td>Keyestudio 8002b Power Amplifier*1</td>
-<td>Keyestudio DIY Common Cathode RGB Module *1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/8f646a7dfa38852a8eccb5e85eb7341a.png" style="width:1.02917in;height:0.57222in" alt="四位数码管模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/269c154eda332be03643bada56070124.jpeg" style="width:1.02292in;height:0.39861in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.94583in;height:0.44375in" alt="USB线" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Keyestudio DIY TM1650 4-Digit Tube Display*1</td>
-<td>4P Dupont Wire*3</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![image-20231020085745428](./media/image-20231020085745428.png)
 
 **Connection Diagram**
 
@@ -4191,34 +3592,7 @@ When we receive a value, we set the PWM value by the corresponding button value,
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:0.67292in;height:0.89792in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d2903250f8e18898973c545ca497393.png" style="width:0.67639in;height:0.89375in" alt="红外接收模块" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DIY Purple LED Module*1</td>
-<td>Keyestudio DIY IR Receiver*1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.94583in;height:0.44375in" alt="USB线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/10ccf14d80feba64bba0c1eacd02b09d.png" style="width:1.3in;height:0.62847in" alt="遥控器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Micro USB Cable*1</td>
-<td>IR Remote Control*1</td>
-<td>3P Dupont Wire*2</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![image-20231020085818751](./media/image-20231020085818751.png)
 
 **Connection Diagram**
 
@@ -4293,18 +3667,9 @@ This chapter mainly introduces how to use the bluetooth of ESP32 for simple data
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.83611in;height:0.44792in" alt="USB线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/53f17b0de2d98d4714e8fe9043a346ca.jpeg" style="width:2.43681in;height:1.13472in" alt="IMG_256" /></td>
-</tr>
-<tr class="even">
-<td>Micro USB Cable*1</td>
-<td>ESP32*1</td>
-</tr>
-</tbody>
-</table>
+| ![](media/wps4.jpg) | ![](media/wps5.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Micro USB Cable*1                                            | ESP32*1                                                      |
 
 In this project, we need to use a bluetooth dobbed serial bluetooth terminal for a study. If you haven’t install it, please click the installation: <https://www.appsapk.com/serial-bluetooth-terminal/> .
 
@@ -4398,30 +3763,8 @@ Send “Hello！”, When the Raspberry Pi receives it, which will reply with "H
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:2.17847in;height:1.0625in" alt="ks0413-3(1)" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/12ecb079cf6481a6f0f04d6b7bb31fd8.png" style="width:0.70417in;height:0.93889in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.88056in;height:0.32083in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.83611in;height:0.44792in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>Keyestudio Purple LED Module*1</td>
-<td>3P Dupont*1</td>
-<td>MicroUSB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020090220928](./media/image-20231020090220928.png)
+
 **Wiring Diagram**
 
 ![](media/a4c49636627363f7413e03a917c02fac.png)    
@@ -4501,18 +3844,9 @@ ESP32 has three different WiFi modes: Station mode, AP mode and AP+Station mode.
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.83611in;height:0.44792in" alt="USB线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/53f17b0de2d98d4714e8fe9043a346ca.jpeg" style="width:2.43681in;height:1.13472in" alt="IMG_256" /></td>
-</tr>
-<tr class="even">
-<td>MicroUSB Cable*1</td>
-<td>ESP32*1</td>
-</tr>
-</tbody>
-</table>
+| ![](media/wps4.jpg) | ![](media/wps5.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Micro USB Cable*1                                            | ESP32*1                                                      |
 
 **Wiring Diagram**
 
@@ -4587,18 +3921,9 @@ In this project, we are going to learn the WiFi AP mode of the ESP32.
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.83611in;height:0.44792in" alt="USB线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/53f17b0de2d98d4714e8fe9043a346ca.jpeg" style="width:2.43681in;height:1.13472in" alt="IMG_256" /></td>
-</tr>
-<tr class="even">
-<td>MicroUSB Cable*1</td>
-<td>ESP32*1</td>
-</tr>
-</tbody>
-</table>
+| ![](media/wps4.jpg) | ![](media/wps5.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Micro USB Cable*1                                            | ESP32*1                                                      |
 
 **Wiring Diagram**
 
@@ -4687,18 +4012,9 @@ In this project, we are going to learn the AP+Station mode of the ESP32.
 
 **Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.53958in;height:0.825in" alt="USB线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/53f17b0de2d98d4714e8fe9043a346ca.jpeg" style="width:2.43681in;height:1.13472in" alt="IMG_256" /></td>
-</tr>
-<tr class="even">
-<td>MicroUSB Cable*1</td>
-<td>ESP32*1</td>
-</tr>
-</tbody>
-</table>
+| ![](media/wps4.jpg) | ![](media/wps5.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Micro USB Cable*1                                            | ESP32*1                                                      |
 
 **Wiring Diagram**
 
@@ -4789,52 +4105,13 @@ We did a lot of experiments, and for each one we needed to re-upload the code, s
 
 **Components Required**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png" style="width:0.67292in;height:0.89722in" alt="白色LED模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/1aafa8910f5184973f1c913c19489fbd.png" style="width:0.67708in;height:0.90347in" alt="单路按键模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/a0eebfcd8f84c3fbac526e9910e66692.png" style="width:0.66319in;height:0.88472in" alt="旋转电位器传感器" /></td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*11</td>
-<td>Keyestudio DIY Purple LED Module*1</td>
-<td>Keyestudio Button Module*1</td>
-<td>Keyestudio Rotary Potentiometer*1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/b62846d9a80a7e7aed5ffbef0caedf7c.png" style="width:0.64167in;height:0.92083in" alt="避障传感器" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/fb4fa5fdd5689ded9c213ba5ceb34c0d.png" style="width:1.04097in;height:0.51319in" alt="摇杆模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/4a358f0f161b2e4dcae43f9315902ef3.png" style="width:0.97847in;height:0.53958in" alt="超声波模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/51729b3ba2184cf0ca0d3242199731ad.png" style="width:0.65972in;height:0.88125in" alt="共阴RGB模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:1.07361in;height:0.42778in" alt="USB线" /></td>
-</tr>
-<tr class="even">
-<td>Keyestudio Obstacle Avoidance Sensor*1</td>
-<td>Keyestudio DIY Joystick Module*1</td>
-<td>Keyestudio HC-SR04 Ultrasonic sensor *1</td>
-<td>Keyestudio DIY Common Cathode RGB Module *1</td>
-<td>MicroUSB Cable*1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:1.10069in;height:0.40069in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/269c154eda332be03643bada56070124.jpeg" style="width:1.14722in;height:0.44722in" alt="4p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5007-KS5008-Keyestudio-ESP32-24-in-1-Sensor-Kit-Arduino-for-Raspberry-Pi/master/media/fc3fd9c0110b04d1af77a2ff8c01a10a.png" style="width:1.10417in;height:0.46319in" alt="5p线" /></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>3PDupont Wire*4</td>
-<td>4PDupont Wire*1</td>
-<td>5PDupont Wire*1</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| ![](media/wps5.png)         |  ![](media/wps46.png)              |  ![](media/wps47.png)     | ![](media/wps48.png)         | ![](media/wps49.png)       |
+| --------------              | ---------------------              | ---------------------     | ------------------------     | ---------------            |
+| ESP32 Board*1               | ESP32 Expansion Board*11           | Purple LED Module*1       |  Button Module*1             | Rotary Potentiometer*1     |
+| ![](media/wps50.png)        | ![](media/wps51.png)               | ![](media/wps52.png)      | ![](media/wps53.png)         |  ![](media/wps4.jpg)       |
+| Obstacle Avoidance Sensor*1 | Joystick Module*1                  |Ultrasonic sensor *1       | RGB Module *1                | MicroUSB Cable*1           |
+| ![](media/wps55.jpeg)       | ![](media/wps56.jpeg)              | ![](media/wps57.png)      |                              |                            |
+| 3PDupont Wire*4             | 4PDupont Wire*1                    | 5PDupont Wire*1           |                              |                            |
 
 **Wiring Diagram**
 
