@@ -4,10 +4,9 @@
    :caption: keyestudio docs
 
    README.md
-   docs/index.md
-   docs/Arduino/Arduino.md
-   docs/Python/Python.md
-   docs/Raspberry Pi/Raspberry Pi.md
+   docs/Product Introduction/1.Product Introduction
+   docs/Arduino/2.Arduino Tutorial
+   docs/Python/3.MicroPython Tutorial
 
 
 
