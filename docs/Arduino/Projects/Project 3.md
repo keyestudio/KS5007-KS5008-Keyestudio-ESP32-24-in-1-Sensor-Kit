@@ -1,6 +1,6 @@
 ### Project 3: Traffic Lights Module
 
-![](media\e191c790f251715b418bcfd39a32917f.jpeg)
+![](media/e191c790f251715b418bcfd39a32917f.jpeg)
 
 **Overview**
 
@@ -15,17 +15,17 @@ In this kit, we will use the traffic light module to simulate the traffic light.
 
 In previous lesson, we already know how to control an LED. In this part, we only need to control three separated LEDs. Output high levels to the signal R(3.3V), then the red LED will be on.
 
-![](media\1479f32d51a02c2230cb535197093d4c.png)
+![](media/1479f32d51a02c2230cb535197093d4c.png)
 
 **Components**
 
-![image-20231020082955449](media\image-20231020082955449.png)
+![image-20231020082955449](media/image-20231020082955449.png)
 
 
 
 **Wiring Diagram**
     
-![](media\cecade99c652fe14ea7547b80849f5b7.png)
+![](media/cecade99c652fe14ea7547b80849f5b7.png)
 
 
 **Test Code**

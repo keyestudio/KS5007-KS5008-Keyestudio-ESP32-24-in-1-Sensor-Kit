@@ -1,6 +1,6 @@
 ### Project 22: Ultrasonic Sensor
 
-![](media\8f99fc89502d1ae2543839b4950da5b6.jpeg)
+![](media/8f99fc89502d1ae2543839b4950da5b6.jpeg)
 
 Bats and some marine animals are able to use high frequencies of sound for echolocation or communication. They can emit ultrasonic waves from the larynx through the mouth or nose and use the sound waves that bounce back to orient and determine the position, size and whether nearby objects are moving.
 
@@ -31,16 +31,16 @@ The HC-SR04 ultrasonic ranging module can provide a non-contact distance sensing
 
 Test distance = high level duration \* 340m/s \* 0.5.
 
-![](media\686176f637ba288e3b20d63bb1054477.png)
+![](media/686176f637ba288e3b20d63bb1054477.png)
 
 **Components**
 
-![image-20231020084555249](media\image-20231020084555249.png)
+![image-20231020084555249](media/image-20231020084555249.png)
 
 
 **Connection Diagram**
 
-![](media\07eb56920ed1cb9b55deab51b7c61d8d.png)
+![](media/07eb56920ed1cb9b55deab51b7c61d8d.png)
 
 **Test Code**
 
@@ -87,6 +87,6 @@ Connect the wires according to the experimental wiring diagram, compile and uplo
 
 The serial monitor will print the distance between the ultrasonic sensor and the object.
 
-![](media\53d036683d58fc57b75712c05bcebc3c.jpeg)
+![](media/53d036683d58fc57b75712c05bcebc3c.jpeg)
 
-![](media\625ab1a540429f569f462702af73c038.png)
+![](media/625ab1a540429f569f462702af73c038.png)

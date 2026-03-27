@@ -15,7 +15,7 @@ installation: <https://www.appsapk.com/serial-bluetooth-terminal/> .
 
 Here is its sign
 
-![](media\7b98d6708888b0a6f38f85ffca484857.png)
+![](media/7b98d6708888b0a6f38f85ffca484857.png)
 
 **Component Knowledge**
 
@@ -25,7 +25,7 @@ Bluetooth is a short-distance communication system that can be divided into two 
 
 **Slave Mode**: A bluetooth module in the slave mode can only accept connection requests from the host, but cannot initiate connection requests. After being connected to a host device, it can send and receive data through the host device. Bluetooth devices can interact with each other, when they interact, the bluetooth device in the main mode searches for nearby devices. While a connection is established, they can exchange data. For example, when a mobile phone exchanges data with ESP32, the mobile phone is usually in master mode and the ESP32 is in slave mode.  
 
-​    ![](media\wps1.jpg)         ![](media\wps2.png)
+​    ![](media/wps1.jpg)         ![](media/wps2.png)
 
 ​       master mode                slave mode
 
@@ -33,7 +33,7 @@ Bluetooth is a short-distance communication system that can be divided into two 
 
 We can use a USB cable to connect ESP32 mainboard to the USB port on a computer.
 
-![](media\wps3.png)![](media\wps4.jpg)      ![](media\wps5.png)
+![](media/wps4.jpg)![](media/wps3.png)![](media/wps5.png)
 
 
 
@@ -77,43 +77,44 @@ void loop() {
 Compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on. Open the serial
 monitor and set the baud rate to 115200. When you see the serial prints the character, as shown below, it means that the ESP32's bluetooth is waiting for connect ion with a phone. (If open the serial monitor and set the baud rate to 115200, the information is not displayed, please press the RESET button of the ESP32)
 
-![](media\1fd21fafd84d2b529931a89d21a03d6a.png)
+![](media/1fd21fafd84d2b529931a89d21a03d6a.png)
 
-![](media\35c5986d34a01d74bac62e6f6ade7e54.png)
+![](media/35c5986d34a01d74bac62e6f6ade7e54.png)
 
 Ensure that your mobile phone bluetooth is enabled and the bluetooth application of "Serial Bluetooth Terminal" is installed.  
 
-![](media\382529edef3989e60264cad217d88e6f.png)
+![](media/382529edef3989e60264cad217d88e6f.png)
 
 Click“Search”，search for the nearby bluetooth and select to connect the“ESP32 test”.
 
-![](media\0608c9a78b5f56d4c8f1994c55c9cd46.png)
+![](media/0608c9a78b5f56d4c8f1994c55c9cd46.png)
 
 Open the software APP and click the left side of the terminal, select "Devices".
 
-![](media\32b8c3abd51fc538ba854b1d72e1165e.png)
+![](media/32b8c3abd51fc538ba854b1d72e1165e.png)
 
 If you select ESP32test in classic bluetooth mode, a successful connection message will appear as shown below.  
 
-![](media\00f9b335cb512704763e3621e7c598b2.png)
+![](media/00f9b335cb512704763e3621e7c598b2.png)
 
 Data can be transferred between your phone and a computer via ESP32 now.
 
 
 Send “Hello！”, When the computer receives it, which will reply with "Hi\!".
 
-![](media\10f1f806f03e3651b3f2779f91aba2fe.png)
+![](media/10f1f806f03e3651b3f2779f91aba2fe.png)
 
-![](media\4f4e6b4e45996ccbde4da17219f02d00.png)
+![](media/4f4e6b4e45996ccbde4da17219f02d00.png)
 
 #### Project 35.2：Bluetooth Control LED
 
 **Components**
 
-![image-20231020090220928](media\image-20231020090220928.png)
+![image-20231020090220928](media/image-20231020090220928.png)
 
 **Wiring Diagram**
-    ![](media\a4c49636627363f7413e03a917c02fac.png)
+   
+ ![](media/a4c49636627363f7413e03a917c02fac.png)
 
 **Test Code**
 
@@ -165,17 +166,17 @@ void loop() {
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on. The APP operation is the same as the project 35.1. To make the external LED on and off, simply change the sending content to "led\_on" and "led\_off". Moving the APP to send data:
 
-![](media\21ec63e3abe43a119ab8a3d4634894f0.png)
+![](media/21ec63e3abe43a119ab8a3d4634894f0.png)
 
 The serial monitor will display as follows:
 
-![](media\f5d5d544d23177674a0b206254fa645b.png)
+![](media/f5d5d544d23177674a0b206254fa645b.png)
 
 **LED Circumstance**
 
-![](media\334d5037b44c03ebfe7f9b1789f2366e.png)
+![](media/334d5037b44c03ebfe7f9b1789f2366e.png)
 
-![](media\fb6c21908efd4fe455cc00ad87ebfbe0.png)
+![](media/fb6c21908efd4fe455cc00ad87ebfbe0.png)
 
 **Note:** If the sent content is not "led-on 'or" led-off ", the status of the LED will not change. If the LED is on, it remains on when
 irrelevant content is received; Conversely, if the LED is off, it continues to be off when irrelevant content is received.   

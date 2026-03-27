@@ -1,6 +1,6 @@
 ### Project 20: Rotary Encoder
 
-![](media\ec37b336b8f5620b62b04224b132840a.jpeg)
+![](media/ec37b336b8f5620b62b04224b132840a.jpeg)
 
 **Overview**
 
@@ -11,7 +11,7 @@ anticlockwise, the set data is up 1; and when the middle button is pressed, the 
 
 **Working Principle**
 
-![](media\2fb56ec6fa69e66fcca4243617d4b18c.jpeg)  
+![](media/2fb56ec6fa69e66fcca4243617d4b18c.jpeg)  
 
 The incremental encoder converts the displacement into a periodic electric signal, and then converts this signal into a counting pulse, and the number of pulses indicates the size of the displacement.
 
@@ -19,11 +19,11 @@ This module mainly uses 20pulse rotary encoder components. It can calc
 
 **Components**
 
-![image-20231020084010680](media\image-20231020084010680.png)
+![image-20231020084010680](media/image-20231020084010680.png)
 
 **Connection Diagram**
 
-![](media\add429af09e0e3d449fba9b17b3d0af4.png)
+![](media/add429af09e0e3d449fba9b17b3d0af4.png)
 
 **Test Code**
 
@@ -103,4 +103,4 @@ Connect the wires according to the experimental wiring diagram, compile and uplo
 
 Rotate the knob on the rotary encoder clockwise, the displayed data will decrease; on the contrary, in anticlockwise way, the data will rise. Equally, press the button on the rotary encoder,“Switch pressed”will be shown.
 
-![](media\02076118bd73aa03a93798b0a399e597.png)
+![](media/02076118bd73aa03a93798b0a399e597.png)

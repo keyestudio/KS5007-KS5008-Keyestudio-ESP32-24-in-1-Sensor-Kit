@@ -1,6 +1,6 @@
 ### Project 25: TM1650 4-Digit Tube Display
 
-![](media\f698ea56391906278b7c8064fca42bb3.jpeg)
+![](media/f698ea56391906278b7c8064fca42bb3.jpeg)
 
 **Overview**
 
@@ -17,11 +17,11 @@ TM1650 uses 2-wire serial transmission protocol for communication (note that thi
 
 TM1650 adopts IIC treaty, which uses DIO and CLK buses.
 
-![](media\c7b895791863dfc2663800ce90f61c89.png)
+![](media/c7b895791863dfc2663800ce90f61c89.png)
 
 **Data command setting**: 0x48 means that we light up the digital tube, instead of enable the function of key scanning
 
-![](media\09585b52bed3d4112d59a611c3c3f262.png)
+![](media/09585b52bed3d4112d59a611c3c3f262.png)
 
 **Command display setting:**
 
@@ -33,12 +33,12 @@ bit\[0\]: start the display of the tube display
 
 **Components**
 
-![image-20231020084838500](media\image-20231020084838500.png)
+![image-20231020084838500](media/image-20231020084838500.png)
 
 
 **Connection Diagram**
 
-![](media\08a0d34d55b5e4215c77fbf8f656c9a9.png)
+![](media/08a0d34d55b5e4215c77fbf8f656c9a9.png)
 
 **Test Code**
 

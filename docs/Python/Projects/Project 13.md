@@ -24,6 +24,7 @@ Subsection 2: The analog value within 3.3/4095 V ~ 2*3.3/4095 V corresponds to t
  …
 
 The conversion formula is as follows:
+
 ![Img](media/img-20231010114044.png)
 
 **DAC：** The higher the precision of DAC, the higher the precision of the output voltage value.  
@@ -34,78 +35,7 @@ The conversion formula is as follows:  
 
 The ESP32 has 16 pins that can be used to measure analog signals. GPIO pin serial numbers and analog pin definitions are shown below:  
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>ADC number in ESP32</td>
-<td>ESP32 GPIO number</td>
-</tr>
-<tr class="even">
-<td>ADC0</td>
-<td>GPIO 36</td>
-</tr>
-<tr class="odd">
-<td>ADC3</td>
-<td>GPIO 39</td>
-</tr>
-<tr class="even">
-<td>ADC4</td>
-<td>GPIO 32</td>
-</tr>
-<tr class="odd">
-<td>ADC5</td>
-<td>GPIO33</td>
-</tr>
-<tr class="even">
-<td>ADC6</td>
-<td>GPIO34</td>
-</tr>
-<tr class="odd">
-<td>ADC7</td>
-<td>GPIO 35</td>
-</tr>
-<tr class="even">
-<td>ADC10</td>
-<td>GPIO 4</td>
-</tr>
-<tr class="odd">
-<td>ADC11</td>
-<td>GPIO0</td>
-</tr>
-<tr class="even">
-<td>ADC12</td>
-<td>GPIO2</td>
-</tr>
-<tr class="odd">
-<td>ADC13</td>
-<td>GPIO15</td>
-</tr>
-<tr class="even">
-<td>ADC14</td>
-<td>GPIO13</td>
-</tr>
-<tr class="odd">
-<td>ADC15</td>
-<td>GPIO 12</td>
-</tr>
-<tr class="even">
-<td>ADC16</td>
-<td>GPIO 14</td>
-</tr>
-<tr class="odd">
-<td>ADC17</td>
-<td>GPIO27</td>
-</tr>
-<tr class="even">
-<td>ADC18</td>
-<td>GPIO25</td>
-</tr>
-<tr class="odd">
-<td>ADC19</td>
-<td>GPIO26</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083612643](media/image-20231020083612643.png)
 
 
 **DAC on ESP32：**

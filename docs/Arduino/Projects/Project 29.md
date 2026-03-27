@@ -1,6 +1,6 @@
 ### Project 29: Intrusion Detection
 
-![](media\b7828b9e5ee615a151567e20d35db90f.png)
+![](media/b7828b9e5ee615a151567e20d35db90f.png)
 
 **Description**
 
@@ -8,12 +8,12 @@ In this experiment, we use a PIR motion sensor to control an active buzzer to em
 
 **Required Components**
 
-![image-20231020085335159](media\image-20231020085335159.png)
+![image-20231020085335159](media/image-20231020085335159.png)
 
 
 **Connection Diagram**
 
-![](media\07ded8ae2b9b12d7d399422cae6b8c5a.png)
+![](media/07ded8ae2b9b12d7d399422cae6b8c5a.png)
 
 **Test Code**
 

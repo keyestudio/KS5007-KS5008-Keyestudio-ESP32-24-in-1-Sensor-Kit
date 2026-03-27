@@ -1,6 +1,6 @@
 ### Project 9: Reed Switch Module
 
-![](media\2a699e913fa52d9acff4b0e4a8188540.png)
+![](media/2a699e913fa52d9acff4b0e4a8188540.png)
 
 **Overview**
 
@@ -18,18 +18,18 @@ In the experiment, we will determine whether there is a magnetic field near the 
 
 In normal conditions, the glass tube in the two reeds made of special materials are separated. When a magnetic substance close to the glass tube, in the role of the magnetic field lines, the pipe within the two reeds are magnetized to attract each other in contact, the reed will suck together, so that the junction point of the connected circuit communication.
 
-![](media\a4a9a00f86be808be0a9c784a6960cd6.jpeg)
+![](media/a4a9a00f86be808be0a9c784a6960cd6.jpeg)
 
 After the disappearance of the outer magnetic reed because of their flexibility and separate, the line is disconnected. The sensor uses this characteristic to build a circuit to convert magnetic field signal into high and low level signal.  
 
 **Components**
 
-![image-20231020083358482](media\image-20231020083358482.png)
+![image-20231020083358482](media/image-20231020083358482.png)
 
 
 **Connection Diagram**
 
-![](media\45cb30739b7c6518fe1591142aabbf2f.png)
+![](media/45cb30739b7c6518fe1591142aabbf2f.png)
 
 **Test Code**
 
@@ -74,4 +74,4 @@ Connect the wires according to the experimental wiring diagram, compile and uplo
 
 When the sensor detects a magnetic field, val is 0 and the red LED of the module lights up, "0 A magnetic field" will be displayed; when no magnetic field is detected, val is 1, and the LED on the module goes out, "1 There is no magnetic field" will be shown, as shown below.
 
-![](media\78da5513e69a05d4b402352167f9dab0.png)
+![](media/78da5513e69a05d4b402352167f9dab0.png)

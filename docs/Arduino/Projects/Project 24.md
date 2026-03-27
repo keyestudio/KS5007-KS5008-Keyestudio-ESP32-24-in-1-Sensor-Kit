@@ -1,6 +1,6 @@
 ### Project 24: DS1307 Clock Module
 
-![](media\949abbbea3c8d8b36463768a39a07b51.png)
+![](media/949abbbea3c8d8b36463768a39a07b51.png)
 
 **Overview**
 
@@ -16,7 +16,7 @@ In the experiment, we use the DS1307 clock module to obtain the system time and 
 
 Serial real-time clock records year, month, day, hour, minute, second and week; AM and PM indicate morning and afternoon respectively; 56 bytes of NVRAM store data; 2-wire serial port; programmable square wave output; power failure detection and automatic switching circuit; battery current is less than 500nA.
 
-![](media\92b8dc82b0c2887539bd506639cfbfc0.png)
+![](media/92b8dc82b0c2887539bd506639cfbfc0.png)
 
 Pins description：X1, 32.768kHz crystal terminal;
 
@@ -30,12 +30,12 @@ SQW/OUT：square waves/output drivers
 
 **Components**
 
-![image-20231020084800566](media\image-20231020084800566.png)
+![image-20231020084800566](media/image-20231020084800566.png)
 
 
 **Connection Diagram**
 
-![](media\de4d2418a1b8ed0ae1c466747103a440.png)
+![](media/de4d2418a1b8ed0ae1c466747103a440.png)
 
 **Test Code**
 
@@ -109,4 +109,4 @@ Rtc.GetDateTime(): the obtained current time and date.
 
 Connect the wires according to the experimental wiring diagram, attach the DS1307 sensor to a battery, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on. Open the serial monitor and set baud rate to 9600. We can see the displayed year, month, day, hour, minute, second and week on the serial monitor, and set the time and date to refresh every second, as shown below:
 
-![](media\2941b09f24b259ff685dfe1bd8eee8b6.png)
+![](media/2941b09f24b259ff685dfe1bd8eee8b6.png)

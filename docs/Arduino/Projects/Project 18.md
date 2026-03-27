@@ -1,6 +1,6 @@
 ### Project 18: Joystick Module
 
-![](media\a28a09d0d9103cc8b93f2ae71f98482a.jpeg)
+![](media/a28a09d0d9103cc8b93f2ae71f98482a.jpeg)
 
 **Overview**
 
@@ -10,18 +10,18 @@ In the project, two analog values(x axis and y axis) will be shown on Shell.
 
 **Working Principle**
 
-![](media\efcb8ed421ab3572af890d73788a8c01.jpeg)
+![](media/efcb8ed421ab3572af890d73788a8c01.jpeg)
 
 In fact, its working principle is very simple. Its inside structure is equivalent to two adjustable potentiometers and a button. When this button is not pressed and the module is pulled down by R1, low levels will be output ; on the contrary, when the button is pressed, VCC will be connected (high levels). When we move the joystick, the internal potentiometer will adjust to output different voltages, and we can read the analog value.
 
 **Components**
 
-![image-20231020083906918](media\image-20231020083906918.png)
+![image-20231020083906918](media/image-20231020083906918.png)
 
 
 **Connection Diagram**
 
-![](media\c1838e7013bc930e997d7684229bcea3.png)
+![](media/c1838e7013bc930e997d7684229bcea3.png)
 
 **Test Code**
 
@@ -66,6 +66,6 @@ Connect the wires according to the experimental wiring diagram, compile and uplo
 
 The serial monitor will show the corresponding value. Moving the joystick or pressing it will change the analog and digital values in the serial monitor.
 
-![](media\06a9de681779df5cfc7e6bc24a928a3a.jpeg)
+![](media/06a9de681779df5cfc7e6bc24a928a3a.jpeg)
 
-![](media\eefc7789bf77ba7056083fdca74abd10.png)
+![](media/eefc7789bf77ba7056083fdca74abd10.png)

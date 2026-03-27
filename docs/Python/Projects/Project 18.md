@@ -18,35 +18,7 @@ In fact, its working principle is very simple. Its inside structure is equivalen
 
 **3. Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
-
-
-![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
-<td>
-
-![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
-<td>
-
-![](media/1f5bf5d8d48c675b98dd2cbfca6c31b7.png)</td>
-<td>
-
-![](media/fc3fd9c0110b04d1af77a2ff8c01a10a.png)</td>
-<td>
-
-![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Joystick Module*1</td>
-<td>5P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020083906918](media/image-20231020083906918.png)
 
 **4. Connection Diagram**
 

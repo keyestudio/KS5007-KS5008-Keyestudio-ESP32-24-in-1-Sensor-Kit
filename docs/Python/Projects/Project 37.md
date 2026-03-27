@@ -6,23 +6,9 @@ In this project, we are going to learn the AP+Station mode of the ESP32.
 
 **2. Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
-
-
-![](media/729232b0c2d2c01984808289b222890c.png)</td>
-<td>
-
-![](media/53f17b0de2d98d4714e8fe9043a346ca.jpeg)</td>
-</tr>
-<tr class="even">
-<td>USB Cable x1</td>
-<td>ESP32*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20231113151026574](media/image-20231113151026574.png) | ![image-20231113151032312](media/image-20231113151032312.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | USB Cable*1                                                  |
 
 **3. Wiring Diagram**
 

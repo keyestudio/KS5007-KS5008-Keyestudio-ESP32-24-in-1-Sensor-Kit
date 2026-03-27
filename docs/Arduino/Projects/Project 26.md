@@ -1,6 +1,6 @@
 ### Project 26: HT16K33\_8X8 Dot Matrix Module
 
-![](media\431b6c4abd63b99219658a03d24de991.jpeg)
+![](media/431b6c4abd63b99219658a03d24de991.jpeg)
 
 **Overview**
 
@@ -14,7 +14,7 @@ As the schematic diagram shown, to light up the LED at the first row and column,
 
 Therefore, we designed this module, using the HT16K33 chip to drive an 8\*8 dot matrix, which greatly saves the resources of the single-chip microcomputer.
 
-![](media\0b38b92f282143bf7605fbc7db294c31.png)
+![](media/0b38b92f282143bf7605fbc7db294c31.png)
 
 There are three DIP switches on the module, all of which are set to I2C communication address. The setting method is shown below. A0，A1 and A2 are grounded, that is, the address is 0x70.
 
@@ -125,12 +125,12 @@ There are three DIP switches on the module, all of which are set to I2C communic
 
 **Components**
 
-![image-20231020084953275](media\image-20231020084953275.png)
+![image-20231020084953275](media/image-20231020084953275.png)
 
 
 **Connection Diagram**
 
-![](media\d3f2f2968ff861d04e909cf330986652.png)
+![](media/d3f2f2968ff861d04e909cf330986652.png)
 
 **Test Code**
 
@@ -184,7 +184,7 @@ First we need to import the library file.
 
 The pattern in our code is an array of byte data type, which is shown in the table below. We convert  into binary, and fill in the 8\*8 form below to make it clear. 1 means on, 0 means off. Then we can see that it is a smile shape.
 
-![image-20231020085156971](media\image-20231020085156971.png)
+![image-20231020085156971](media/image-20231020085156971.png)
 
 **Test Result**
 

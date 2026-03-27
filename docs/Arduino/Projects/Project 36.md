@@ -14,7 +14,7 @@ ESP32 has three different WiFi modes: Station mode, AP mode and AP+Station mode.
 
 Plug the ESP32 to the USB port of your PC
 
-![image-20231020090411264](media\image-20231020090411264.png)
+![image-20231020090411264](media/image-20231020090411264.png)
 
 **Component Knowledge**
 
@@ -22,13 +22,13 @@ Plug the ESP32 to the USB port of your PC
 
 When setting Station mode, the ESP32 is taken as a WiFi client. It can connect to the router network and communicate with other devices on the router via a WiFi connection. As shown in the figure below, the PC and the router have been connected. If the ESP32 wants to communicate with the PC, the PC and the router need to be connected.
 
-![](media\f74baff97695aa2ee33a8c19370d2547.png)
+![](media/f74baff97695aa2ee33a8c19370d2547.png)
 
 **Test Code**
 
 Since WiFi names and passwords vary from place to place, thereby users need to enter the correct WiFi names and passwords in the box shown below before the program code runs.  
 
-![](media\8762fd2a474a313ba0cec5b989d275f6.png)
+![](media/8762fd2a474a313ba0cec5b989d275f6.png)
 
 
 
@@ -74,6 +74,6 @@ After entering the correct WiFi names and passwords, compile and upload the code
 
 When the ESP32 successfully connects to ssid\_WiFi, the serial monitor prints out the IP address, then monitor will display as follows: (If open the serial monitor and set the baud rate to 115200, the information is not displayed, please press the RESET button of the ESP32)
 
-![](media\1fd21fafd84d2b529931a89d21a03d6a.png)
+![](media/1fd21fafd84d2b529931a89d21a03d6a.png)
 
-![](media\efc6081aa00e0ce19df5501de76482da.png)
+![](media/efc6081aa00e0ce19df5501de76482da.png)

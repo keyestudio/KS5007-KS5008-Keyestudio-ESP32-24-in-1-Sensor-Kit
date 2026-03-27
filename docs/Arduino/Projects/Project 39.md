@@ -1,6 +1,6 @@
 ### Project 39: Comprehensive Experiment
 
-![](media\c92bfcbd1ecd7fe91198066d0c9a4df6.jpeg)
+![](media/c92bfcbd1ecd7fe91198066d0c9a4df6.jpeg)
 
 **Introduction**
 
@@ -19,7 +19,7 @@ We did a lot of experiments, and for each one we needed to re-upload the code, s
 
 **Wiring Diagram**
 
-![](media\b6956132b3e2e5bef697151f0de7656a.png)
+![](media/b6956132b3e2e5bef697151f0de7656a.png)
 
 **Test Code**
 
@@ -188,20 +188,20 @@ Press the button, the RGB stops flashing, press once, the remainder is 1.
 
 The function of the project is whether the obstacle avoidance sensor detects obstacles and reads high and low levels. If the sensor does not detect an obstacle, val is 1 and the serial monitor displays "1 All going well" character. When an obstacle is detected, val is 0, and the serial monitor displays "0 There are obstacles" character. The monitor will display as follows:
 
-![](media\e1d1421b495015c00644b85995dfeb1c.png)
+![](media/e1d1421b495015c00644b85995dfeb1c.png)
 
 Note: If you press the button first, the button times will change to 1, and when you open the serial monitor, the program will reset and the button times will change to 0. You need to press the button again to reset the button times.  
 
 Press the button again, the time of pressing buttons is 2 and the remainder is 2. Read digital values at x, y and z axis of the joystick module. As shown below;
 
-![](media\0dfc03cafc346dbf32c5e5c523144e8d.png)
+![](media/0dfc03cafc346dbf32c5e5c523144e8d.png)
 
 Press the key for the third time, the remainder is 3. Then the potentiometer can adjust the PWM value at the GPI05 port to control LED brightness of the purple LED.
 
-![](media\2c1d413ad50948a83f058552d04440a4.png)
+![](media/2c1d413ad50948a83f058552d04440a4.png)
 
 Press the key for the fourth time, the remainder is 4. Then the ultrasonic sensor can detect distance, as shown below;
 
-![](media\2c5cec1bf95a8da1f424e4287cc79e2e.png)
+![](media/2c5cec1bf95a8da1f424e4287cc79e2e.png)
 
 Press the key for the fifth time, the remainder is 0. Then the RGB will flash. If you press keys incessantly, remainders will change in a loop way. So does functions.

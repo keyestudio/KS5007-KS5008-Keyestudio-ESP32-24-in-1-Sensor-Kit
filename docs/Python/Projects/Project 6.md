@@ -14,27 +14,15 @@ We can determine whether the button on the sensor is pressed by reading the high
 
 The button module has four pins. The pin 1 is connected to the pin 3 and the pin 2 is linked with the pin 4. When the button is not pressed, they are disconnected. Yet, when the button is pressed, they are connected. If the button is released, the signal end is high level.
 
-![img](media/a51debfc8a38d0d5729d1da394f95ca5.png?lastModify=1774484129)
+![](media/a51debfc8a38d0d5729d1da394f95ca5.png)
 
 **3. Components**
 
-
-
-
-
-![img](media/c9020c6015e55923afec197ab9d03fae.png?lastModify=1774484129)</td> <td>
-
-![img](media/6d96c844b0260ad712130945d692a7a2.jpeg?lastModify=1774484129)</td> <td>
-
-![img](media/efcc7b40d80043b7b1f90ceaa8d73639.png?lastModify=1774484129)</td> <td>
-
-![img](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg?lastModify=1774484129)</td> <td>
-
-</td> </tr> <tr class="even"> <td>ESP32 Board1</td> <td>ESP32 Expansion Board1</td> <td>Keyestudio DIY Button Module1</td> <td>3P Dupont Wire1</td> <td>Micro USB Cable*1</td> </tr> </tbody> </table>
+![image-20231020083206539](media/image-20231020083206539.png)
 
 **4. Connection Diagram**
 
-![img](media/395caba95f49d582d7fd36cacbf44a7c.png?lastModify=1774484129)
+![](media/395caba95f49d582d7fd36cacbf44a7c.png)
 
 **5. Test Code**
 
@@ -66,4 +54,4 @@ We can use **button = Pin(15, Pin.IN) to set INPUT mode,** at this time, the pin
 
 Connect the wires according to the experimental wiring diagram and power on. Click ![img](media/da852227207616ccd9aff28f19e02690.png?lastModify=1774484129)“Run current script”, the code starts executing, the string will be displayed on the ”Shell“ window. When the button is pressed, the ”Shell“ window will show“You pressed the button!”；when the button is released，the ”Shell“ window will show“Loosen the button”; as shown below. Press “Ctrl+C”or click![img](media/27451c8a9c13e29d02bc0f5831cfaf1f.png?lastModify=1774484129)“Stop/Restart backend”to exit the program.
 
-![img](media/ba199239c85c395f36e42612246288eb.png?lastModify=1774484129)
+![](media/ba199239c85c395f36e42612246288eb.png)

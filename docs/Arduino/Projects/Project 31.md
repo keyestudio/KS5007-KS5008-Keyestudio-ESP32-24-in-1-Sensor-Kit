@@ -1,6 +1,6 @@
 ### Project 31: Rotary Potentiometer
 
-![](media\f71165ab140ae6b2aac093dc75785c96.jpeg)
+![](media/f71165ab140ae6b2aac093dc75785c96.jpeg)
 
 **Introduction**
 
@@ -10,12 +10,12 @@ After the code is set successfully, we can control the brightness of the LED on 
 
 **Required Components**
 
-![image-20231020085536967](media\image-20231020085536967.png)
+![image-20231020085536967](media/image-20231020085536967.png)
 
 
 **Connection Diagram**
 
-![](media\7f24723673e622d23fbe0a3cdbd21d69.png)
+![](media/7f24723673e622d23fbe0a3cdbd21d69.png)
 
 **Test Code**
 

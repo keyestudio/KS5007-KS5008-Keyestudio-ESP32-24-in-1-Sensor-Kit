@@ -1,6 +1,6 @@
 ### Project 11: Active Buzzer
 
-![](media\f4cc23dc8ed28d408e5a119855e19aa2.jpeg)
+![](media/f4cc23dc8ed28d408e5a119855e19aa2.jpeg)
 
 **Overview**
 
@@ -14,15 +14,15 @@ If the base electrode of the triode connected to the R1 resistor is a high level
 
 When we output a high level from the IO port to the triode, the buzzer will emit sounds; if outputting low levels, the buzzer won’t emit sounds.
 
-![](media\458b66a2a23d6e135e7cf9975fe27507.png)
+![](media/458b66a2a23d6e135e7cf9975fe27507.png)
 
 **Components**
 
-![image-20231020083504120](media\image-20231020083504120.png)
+![image-20231020083504120](media/image-20231020083504120.png)
 
 **Connection Diagram**
 
-![](media\44508746060c5df3544ab2d84b2482bf.png)
+![](media/44508746060c5df3544ab2d84b2482bf.png)
 
 **Test Code**
 

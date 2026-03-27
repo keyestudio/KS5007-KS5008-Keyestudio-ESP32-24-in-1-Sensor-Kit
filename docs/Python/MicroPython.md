@@ -1,4 +1,4 @@
-## Thonny Development Environment Configuration：
+## Thonny Development Environment Configuration
 
 Thonny is a free and open source software platform with small size, simple interface, simple operation and rich functions. It is a Python IDE suitable for beginners. In this tutorial, we use this IDE to develop a ESP32. Thonny supports multiple operating systems including Windows, Mac OS, Linux.
 

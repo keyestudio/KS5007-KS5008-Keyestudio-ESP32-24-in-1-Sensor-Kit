@@ -10,7 +10,7 @@
 
 When you get control board, you need to download Arduino IDE and driver firstly.
 
-You could download Arduino IDE from the official website:[<span class="underline">https://www.arduino.cc/</span>](https://www.arduino.cc/), click the “SOFTWARE”on the browse bar, then click<span class="underline">“DOWNLOADS”</span> to enter download page, as shown below:
+You could download Arduino IDE from the official website: [<span class="underline">https://www.arduino.cc/</span>](https://www.arduino.cc/), click the “SOFTWARE”on the browse bar, then click<span class="underline">“DOWNLOADS”</span> to enter download page, as shown below:
 
 ![](media/bfe8c9e405c71123dee7921eddff86d3.png)
 
@@ -102,7 +102,7 @@ Note：you need to download Arduino IDE 1.8.5 or advanced version to install the
      
 ![](media/8aca9b5378e794375f2c15d3b4e238ba.png)
 
-2) Click **“ File**” →**“Preferences”**，copy the website address <https://dl.espressif.com/dl/package_esp32_index.json> in
+2) Click **“ File**” →**“Preferences”**，copy the website address  `https://dl.espressif.com/dl/package_esp32_index.json` in
     the“**Additional Boards Manager URLs:**”and click“**OK**”.
     
 ![](media/a8febbd62268514a30cec4e183b1eaed.png)

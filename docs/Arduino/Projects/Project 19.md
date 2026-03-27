@@ -1,6 +1,6 @@
 ### Project 19: SK6812 RGB Module
 
-![](media\effda831f7c06cea2c443d8352f1a693.jpeg)
+![](media/effda831f7c06cea2c443d8352f1a693.jpeg)
 
 **Overview**
 
@@ -16,16 +16,16 @@ From the schematic diagram, we can see that these four pixel lighting beads are 
 
 The data protocol adopts a single-wire zero-code communication method. After the pixel is powered up and reset, the S terminal receives the data transmitted from the controller. The first 24bit data sent is extracted by the first pixel and sent to the data latch of the pixel.
 
-![](media\f0d824a10a88aa0fbabfb685634672fc.png)
+![](media/f0d824a10a88aa0fbabfb685634672fc.png)
 
 **Components**
 
-![image-20231020083937380](media\image-20231020083937380.png)
+![image-20231020083937380](media/image-20231020083937380.png)
 
 
 **Connection Diagram**
 
-![](media\c24ec4320937c7115802a2937180f703.png)
+![](media/c24ec4320937c7115802a2937180f703.png)
 
 **Test Code**
 

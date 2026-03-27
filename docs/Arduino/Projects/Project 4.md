@@ -1,6 +1,6 @@
 ### Project 4: Breathing LED
 
-![](media\25107e92a36e701f271b2371359f2679.jpeg)
+![](media/25107e92a36e701f271b2371359f2679.jpeg)
 
 **Overview**
 
@@ -8,11 +8,11 @@ A“breathing LED”is a phenomenon where an LED's brightness smoothly changes f
 
 **Components**
 
-![image-20231020083030398](media\image-20231020083030398.png)
+![image-20231020083030398](media/image-20231020083030398.png)
 
 **Connection Diagram**
 
-![](media\fed849dd5952f3b94a591d5bc5e64267.png)
+![](media/fed849dd5952f3b94a591d5bc5e64267.png)
 
 **Test Code**
 

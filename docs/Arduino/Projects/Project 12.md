@@ -1,6 +1,6 @@
 ### Project 12: 8002b Audio Power Amplifier
 
-![](media\6e8569df97b72e866488a6f414f9e392.jpeg)
+![](media/6e8569df97b72e866488a6f414f9e392.jpeg)
 
 **Overview**
 
@@ -14,16 +14,16 @@ In the experiment, we used the 8002b power amplifier speaker module to emit soun
 
 In fact, it is similar to a passive buzzer. The active buzzer has its own oscillation source. Yet, the passive buzzer does not have internal oscillation. When controlling the circuit, we need to input square waves of different frequencies to the positive pole of the component and ground the negative pole to control the buzzer to chime sounds of different frequencies.
 
-![](media\f5f372e0713df6439a7cc52f5caf1cad.png)
+![](media/f5f372e0713df6439a7cc52f5caf1cad.png)
 
 **Components**
 
-![image-20231020083535141](media\image-20231020083535141.png)
+![image-20231020083535141](media/image-20231020083535141.png)
 
 
 **Connection Diagram**
 
-![](media\c6e67388d17aae690f538a4c61f9fd9f.png)
+![](media/c6e67388d17aae690f538a4c61f9fd9f.png)
 
 **Test Code**
 

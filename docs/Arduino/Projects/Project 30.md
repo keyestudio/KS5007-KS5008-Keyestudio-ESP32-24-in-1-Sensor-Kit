@@ -1,6 +1,6 @@
 ### Project 30: Rotary Encoder control RGB
 
-![](media\c6b4f1cedef06ed68d1c2e5ccf5c17d2.jpeg)
+![](media/c6b4f1cedef06ed68d1c2e5ccf5c17d2.jpeg)
 
 **Introduction**
 
@@ -10,11 +10,11 @@ When designing the code, we need to divide the obtained values by 3 to get the r
 
 **Components**
 
-![image-20231020085412325](media\image-20231020085412325.png)
+![image-20231020085412325](media/image-20231020085412325.png)
 
 **Connection Diagram**
 
-![](media\c88ef3fa9019777e0697e242d0b41c4c.png)
+![](media/c88ef3fa9019777e0697e242d0b41c4c.png)
 
 **Test Code**
 
@@ -118,11 +118,11 @@ void loop() {
 
 1. In the experiment, we set the val to the remainder of Encoder\_Count divided by 3. Encoder\_Count is the value of the encoder. Then we can set pin GPIO0 (red), GPIO2 (green) and GPIO15 (blue) according to remainders.
 
-   2\. Referring to the control method learned in the previous experiment, use the LED on the remainder control module to display the corresponding light color. The value obtained by taking the remainder of 3 for any number is 0 or 1 or 2. We use these three values to judge, and display the corresponding color.
+2. Referring to the control method learned in the previous experiment, use the LED on the remainder control module to display the corresponding light color. The value obtained by taking the remainder of 3 for any number is 0 or 1 or 2. We use these three values to judge, and display the corresponding color.
 
 
 **Test Result**
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully, we will use a USB cable to power on. Open the serial monitor and set the baud rate to 9600, then rotate the knob of the rotary encoder to display the reminders, which can control colors of LED(red green blue).
 
-![](media\0a8ccc2c52487354aae797e5b878b635.png)
+![](media/0a8ccc2c52487354aae797e5b878b635.png)

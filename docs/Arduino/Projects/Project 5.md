@@ -1,10 +1,10 @@
 ### Project 5: RGB Module
 
-![](media\b3515a7e0340f391bef256c9ed6ccd4b.jpeg)
+![](media/b3515a7e0340f391bef256c9ed6ccd4b.jpeg)
 
 **Overview**
     
-![](media\bbcfcb9ae56abb7e80ee587246fc4be9.GIF)
+![](media/bbcfcb9ae56abb7e80ee587246fc4be9.GIF)
 
 Among these modules is a RGB module. It adopts a F10-full color RGB foggy common cathode LED. We connect the RGB module to the PWM port of MCU and the other pin to GND(for common anode RGB, the rest pin will be connected to VCC). So what is PWM?
 
@@ -18,15 +18,15 @@ This process can be likened to showing a movie. The movie we watch are not compl
 
 For our experiment, we will control the RGB module to display different colors through three PWM values.
 
-![](media\71e990d503b6f1822379091a37f58a6b.jpeg)
+![](media/71e990d503b6f1822379091a37f58a6b.jpeg)
 
 **Components**
 
-![image-20231020083108828](media\image-20231020083108828.png)
+![image-20231020083108828](media/image-20231020083108828.png)
 
 **Connection Diagram**
 
-![](media\e684c10368af661546702f94e0a495f3.png)
+![](media/e684c10368af661546702f94e0a495f3.png)
 
 **Test Code**
 

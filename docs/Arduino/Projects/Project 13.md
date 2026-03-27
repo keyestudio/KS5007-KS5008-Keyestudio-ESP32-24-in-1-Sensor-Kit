@@ -1,6 +1,6 @@
 ### Project 13: Potentiometer
 
-![](media\fe92a4f36758bc236d94290478fe5eac.jpeg)
+![](media/fe92a4f36758bc236d94290478fe5eac.jpeg)
 
 **Overview**
 
@@ -10,14 +10,14 @@ The digital IO ports can read the voltage value between 0 and 3.3V and the modul
 
 **Working Principle**
 
-![](media\a6ca9064a864e572984fdc41207eaaca.jpeg)
+![](media/a6ca9064a864e572984fdc41207eaaca.jpeg)
 
 It uses a 10K adjustable resistor. We can change the resistance by rotating the potentiometer. The signal S can detect the voltage
 changes(0-3.3V) which are analog quantity.
 
 **ADC：**The more bits an ADC has, the denser the partitioning of the simulation, the higher the accuracy of the final conversion.
 
-![](media\f6c45550f4adf8373d7f1d01daec2c64.png)
+![](media/f6c45550f4adf8373d7f1d01daec2c64.png)
 
 The conversion formula is as follows:
 
@@ -126,12 +126,12 @@ The ESP32 has two 8-bit digital-to-analog converters connected to GPIO25 and GPI
 
 **Components**
 
-![image-20231020083612643](media\image-20231020083612643.png)
+![image-20231020083612643](media/image-20231020083612643.png)
 
 
 **Connection Diagram**
 
-![](media\ce7b953cd508fd8f2f9aafb805fae1f6.png)
+![](media/ce7b953cd508fd8f2f9aafb805fae1f6.png)
 
 **Test Code**
 
@@ -180,4 +180,4 @@ void loop() {
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on, open the serial monitor and set the baud rate to 9600. The serial monitor will display the potentiometer's ADC value, DAC value and voltage value. Rotate the potentiometer handle, the analog values will change.
 
-![](media\8dd8ee99902a90523e931099dfc205f5.png)
+![](media/8dd8ee99902a90523e931099dfc205f5.png)

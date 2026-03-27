@@ -10,55 +10,7 @@ When designing the code, we need to divide the obtained values by 3 to get the r
 
 **2. Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
-
-
-![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
-<td>
-
-![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
-<td>
-
-![](media/eb9d1b363af72bc105ce38cb9e4d99b1.png)</td>
-<td>
-
-![](media/989ee8ccd2a016dcaeb0bef68d55e912.png)</td>
-</tr>
-<tr class="even">
-<td>ESP32Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td><p>Keyestudio</p>
-
-<p>Common Cathode RGB Module*1</p></td>
-
-<td><p>Keyestudio</p>
-
-<p>Rotary Encoder Module*1</p></td>
-
-</tr>
-<tr class="odd">
-<td>
-
-![](media/fc3fd9c0110b04d1af77a2ff8c01a10a.png)</td>
-<td>
-
-![](media/269c154eda332be03643bada56070124.jpeg)</td>
-<td>
-
-![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>5P Dupont Wire*1</td>
-<td>4P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![image-20231020085412325](media/image-20231020085412325.png)
 
 **3. Connection Diagram**
 

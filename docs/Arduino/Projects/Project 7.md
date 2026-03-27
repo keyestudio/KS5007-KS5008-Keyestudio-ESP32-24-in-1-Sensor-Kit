@@ -1,6 +1,6 @@
 ### Project 7: Obstacle Avoidance Sensor
 
-![](media\e6dda88bb6faf8fc06d81361b7f48a3d.jpeg)
+![](media/e6dda88bb6faf8fc06d81361b7f48a3d.jpeg)
 
 **Overview**
 
@@ -13,15 +13,15 @@ NE555 circuit provides IR signals with frequency to the emitter TX, then the IR 
 
 When the receiver RX meets the weak signals reflected back, the receiving pin will output high levels, which indicates the obstacle is far away. On the contrary, it the reflected signals are stronger, low levels will be output, which represents the obstacle is close. There are two potentiometers on the module, and one is for adjusting emission power, another one is for receiving frequency.
 
-![](media\f32ebd19bd8e893ab6c865f83b274900.png)
+![](media/f32ebd19bd8e893ab6c865f83b274900.png)
 
 **Components**
 
-![image-20231020083251429](media\image-20231020083251429.png)
+![image-20231020083251429](media/image-20231020083251429.png)
 
 **Connection Diagram**
 
-![](media\1c80fc2e1d7c038f0e105164090b97da.png)
+![](media/1c80fc2e1d7c038f0e105164090b97da.png)
 
 **Test Code**
 
@@ -74,4 +74,4 @@ Upload the test code and wire up according to the connection diagram. After powe
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on，open the serial monitor and set the baud rate to 9600. The serial monitor will display the corresponding data and characters. When the sensor detects the obstacle, the val is 0, the monitor will show“There are obstacles”; if the obstacle is not detected, the val is 1,“All going well” will be shown.
 
-![](media\0420964cc0ed410bcbbd06efcb58dee7.png)
+![](media/0420964cc0ed410bcbbd06efcb58dee7.png)

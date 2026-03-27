@@ -1,6 +1,6 @@
 ### Project 21: Servo Control
 
-![](media\165f16e47a832fc4dcaea6e4a1c11194.jpeg)
+![](media/165f16e47a832fc4dcaea6e4a1c11194.jpeg)
 
 **Overview**
 
@@ -9,23 +9,23 @@ sensor. 
 
 In general, servo has three lines in brown, red and orange. The brown wire is grounded, the red one is a positive pole line and the orange one is a signal line.
 
-![image-20231020084332254](media\image-20231020084332254.png)
+![image-20231020084332254](media/image-20231020084332254.png)
 
 **Working Principle**
 
 The rotation angle of servo motor is controlled by regulating the duty cycle of PWM (Pulse-Width Modulation) signal. The standard cycle of PWM signal is 20ms (50Hz). Theoretically, the width is distributed between 1ms-2ms, but in fact, it's between 0.5ms-2.5ms. The width corresponds the rotation angle from 0° to 180°. But note that for different brand motors, the same signal may have different rotation angles. 
 
-![image-20231020084346512](media\image-20231020084346512.png)
+![image-20231020084346512](media/image-20231020084346512.png)
 
-![](media\b4993212773e13b1a4424b3d7ef41ab6.png)
+![](media/b4993212773e13b1a4424b3d7ef41ab6.png)
 
 **Components**
 
-![image-20231020084432436](media\image-20231020084432436.png)
+![image-20231020084432436](media/image-20231020084432436.png)
 
 **Connection Diagram**
 
-![](media\53dbdf43b364542bedb39e45132a2af9.png)
+![](media/53dbdf43b364542bedb39e45132a2af9.png)
 
 **Test Code 1**
 

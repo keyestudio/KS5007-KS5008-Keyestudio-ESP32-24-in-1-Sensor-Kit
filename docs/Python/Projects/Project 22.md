@@ -32,35 +32,7 @@ The HC-SR04 ultrasonic ranging module can provide a non-contact distance sensing
 
 **3. Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
-
-
-![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
-<td>
-
-![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
-<td>
-
-![](media/1a1dc36771654248ade08b9d9f115f57.png)</td>
-<td>
-
-![](media/269c154eda332be03643bada56070124.jpeg)</td>
-<td>
-
-![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>keyestudio SR01 Ultrasonic Sensor*1</td>
-<td>4P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020084555249](media/image-20231020084555249.png)
 
 **4. Connection Diagram**
 

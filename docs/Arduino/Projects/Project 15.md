@@ -1,6 +1,6 @@
 ### Project 15: Photoresistor
 
-![](media\37bb57bcf72ba62056bbc61164185f0a.png)
+![](media/37bb57bcf72ba62056bbc61164185f0a.png)
 
 **Description**
 
@@ -11,15 +11,15 @@ Also, it converts the resistance change into a voltage change through the charac
 
 If there is no light, the resistance is 0.2MΩ and the detected voltage at the terminal 2 is close to 0. When the light intensity increases, the resistance of photoresistor and detected voltage will diminish.
 
-![](media\651e70e24ecca152ec701deb7a6ea102.png)
+![](media/651e70e24ecca152ec701deb7a6ea102.png)
 
 **Components**
 
-![image-20231020083727162](media\image-20231020083727162.png)
+![image-20231020083727162](media/image-20231020083727162.png)
 
 **Connection Diagram**
 
-![](media\0b880c099cb70864881c501c9a3a8dbb.png)
+![](media/0b880c099cb70864881c501c9a3a8dbb.png)
 
 **Test Code**
 
@@ -56,4 +56,4 @@ void loop() {
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on, open the serial monitor and set the baud rate to 9600. The serial monitor will display the photoresistor’s ADC value, DAC value and voltage value. When the light intensity gets stronger, the analog values will get larger, as shown below:
 
-![](media\b2d26dfa43ae7db5e08656d642f4f125.png)
+![](media/b2d26dfa43ae7db5e08656d642f4f125.png)

@@ -1,6 +1,6 @@
 ### Project 2: Lighting up LED
 
-![](media\ce8d61c97eb89c94c05cc1f6299316b5.jpeg)
+![](media/ce8d61c97eb89c94c05cc1f6299316b5.jpeg)
 
 **Overview**
 
@@ -18,15 +18,15 @@ Due to limitation of IO ports of ESP32 board, weak current can’t make LED brig
 
 The right one is correct wiring-up diagram. GND and VCC are powered up. When the S terminal is a high level, the triode Q1 will be connected and LED will light up(note: current passes through LED and R3 to reach GND by VCC not IO ports). Conversely, when the S terminal is a low level, the triode Q1 will be disconnected and LED will go off.
 
-![](media\d205e9ad7c33cc55909cb1d652d42ad7.png)
+![](media/d205e9ad7c33cc55909cb1d652d42ad7.png)
 
 **Components**
 
-![image-20231020082906527](media\image-20231020082906527.png)
+![image-20231020082906527](media/image-20231020082906527.png)
 
 **Wiring Diagram**
 
-![](media\fed849dd5952f3b94a591d5bc5e64267.png)
+![](media/fed849dd5952f3b94a591d5bc5e64267.png)
 
 **Test Code**
 
@@ -69,6 +69,6 @@ Firstly, we connect the module signal to ledPIN, namely GP0, and set it to a hig
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on, the LED in the circuit will flash alternately.
 
-Note: If the uploading code fails, you can press and hold the Boot button on the ESP32 after clicking![](media\d09c4a31563f04a42d451e7bc1a5fb8a.png)and release it after the percentage of uploading progress appears.![](media\dc77bfcf5851c8f43aab6cbe7cec7920.png), as shown below:  
+Note: If the uploading code fails, you can press and hold the Boot button on the ESP32 after clicking![](media/d09c4a31563f04a42d451e7bc1a5fb8a.png)and release it after the percentage of uploading progress appears.![](media/dc77bfcf5851c8f43aab6cbe7cec7920.png), as shown below:  
 
-![](media\157ee2e7687559d9812d24edec758150.png)
+![](media/157ee2e7687559d9812d24edec758150.png)

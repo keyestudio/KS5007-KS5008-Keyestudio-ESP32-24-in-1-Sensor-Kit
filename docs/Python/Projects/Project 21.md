@@ -18,31 +18,7 @@ The rotation angle of servo motor is controlled by regulating the duty cycle of 
 
 **3. Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
-
-
-![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
-<td>
-
-![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
-<td>
-
-![](media/b9a96e60ed3aee985db5d4dcaf9bf38b.png)</td>
-<td>
-
-![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Servo*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020084432436](media/image-20231020084432436.png)
 
 **4. Connection Diagram**
 

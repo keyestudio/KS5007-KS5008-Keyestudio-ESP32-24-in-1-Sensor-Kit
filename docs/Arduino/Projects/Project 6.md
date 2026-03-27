@@ -1,6 +1,6 @@
 ### Project 6: Button Sensor
 
-![](media\4d5f6ea741d1e346e03f6efe7cfc9d2d.jpeg)
+![](media/4d5f6ea741d1e346e03f6efe7cfc9d2d.jpeg)
 
 **Overview**
 
@@ -12,19 +12,19 @@ We can determine whether the button on the sensor is pressed by reading the high
 
 **Working Principle**
 
-![](media\a51debfc8a38d0d5729d1da394f95ca5.png)
+![](media/a51debfc8a38d0d5729d1da394f95ca5.png)
 
 The button module has four pins. The pin 1 is connected to the pin 3 and the pin 2 is linked with the pin 4. When the button is not pressed, they are disconnected. Yet, when the button is pressed, they are connected. If the button is released, the signal end
 is high level.
 
 **Components**
 
-![image-20231020083206539](media\image-20231020083206539.png)
+![image-20231020083206539](media/image-20231020083206539.png)
 
 
 **Connection Diagram**
 
-![](media\395caba95f49d582d7fd36cacbf44a7c.png)
+![](media/395caba95f49d582d7fd36cacbf44a7c.png)
 
 **Test Code**
 
@@ -83,4 +83,4 @@ return HIGH or LOW.
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on，open the serial monitor and set the baud rate to 9600. The serial monitor will display the corresponding data and characters. When the button is pressed, val is 0, the monitor will show“Press the button”；when released, val is 1，the monitor will show“Loosen the button”; as shown below
 
-![](media\bbd14736aa5700c252138d5b4c185568.png)
+![](media/bbd14736aa5700c252138d5b4c185568.png)

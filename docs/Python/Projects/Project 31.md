@@ -10,39 +10,7 @@ After the code is set successfully, we can control the brightness of the LED on 
 
 **2. Required Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
-
-
-![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
-<td>
-
-![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
-<td>
-
-![](media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png)</td>
-<td>
-
-![](media/a0eebfcd8f84c3fbac526e9910e66692.png)</td>
-<td>
-
-![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
-<td>
-
-![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio White LED*1</td>
-<td>Keyestudio Rotary Potentiometer*1</td>
-<td>3P Dupont Wire*2</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020085536967](media/image-20231020085536967.png)
 
 **3. Connection Diagram**
 

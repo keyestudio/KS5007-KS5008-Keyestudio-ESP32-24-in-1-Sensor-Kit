@@ -1,8 +1,8 @@
 ### **Project 33: Ultrasonic Radar**
 
-![](media\19a7c30e24f0ec39da94912c5535b791.png)
+![](media/19a7c30e24f0ec39da94912c5535b791.png)
 
-![](media\38037219a4908755dbedc422be1ab61b.jpeg)
+![](media/38037219a4908755dbedc422be1ab61b.jpeg)
 
 
 
@@ -14,12 +14,12 @@ In this experiment, we will use a speaker module, an RGB module and a 4-digit tu
 
 **Required Components**
 
-![image-20231020085745428](media\image-20231020085745428.png)
+![image-20231020085745428](media/image-20231020085745428.png)
 
 
 **Connection Diagram**
 
-![](media\3d6e86b75df96354e05447244d2fee68.png)
+![](media/3d6e86b75df96354e05447244d2fee68.png)
 
 **Test Code**
 

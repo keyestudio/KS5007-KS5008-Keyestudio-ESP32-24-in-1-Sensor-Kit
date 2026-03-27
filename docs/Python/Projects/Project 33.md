@@ -10,57 +10,7 @@ We know that bats use echoes to determine the direction and the location of thei
 
 **2. Required Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
-
-
-![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
-<td>
-
-![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
-<td>
-
-![](media/4a358f0f161b2e4dcae43f9315902ef3.png)</td>
-<td>
-
-![](media/1ef2dd7f7fd91d208e726ef074a02dca.png)</td>
-<td>
-
-![](media/eb9d1b363af72bc105ce38cb9e4d99b1.png)</td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio HC-SR04 Ultrasonic Sensor*1</td>
-<td>Keyestudio 8002b Power Amplifier*1</td>
-<td>Keyestudio DIY Common Cathode RGB Module *1</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/8f646a7dfa38852a8eccb5e85eb7341a.png)</td>
-<td>
-
-![](media/269c154eda332be03643bada56070124.jpeg)</td>
-<td>
-
-![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
-<td>
-
-![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Keyestudio DIY TM1650 4-Digit Display*1</td>
-<td>4P Dupont Wire*3</td>
-<td>3P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![image-20231020085745428](media/image-20231020085745428.png)
 
 **3. Connection Diagram**
 

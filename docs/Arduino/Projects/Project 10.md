@@ -1,6 +1,6 @@
 ### Project 10: PIR Motion Sensor
 
-![](media\d58ba7b9b4a0115b07cbb1c871ef8ec9.jpeg)
+![](media/d58ba7b9b4a0115b07cbb1c871ef8ec9.jpeg)
 
 **Overview**
 
@@ -16,16 +16,16 @@ When no person is detected or no infrared signal is received, and pin 1 of the s
 
 When one is detected or an infrared signal is received, and pin 1 of the sensor outputs a high level. Then LED on the module will go off, the MOS tube Q1 is disconnected and the signal terminal S will detect high levels.
 
-![](media\e62f4d614ab7e67ac373576d7ff96fee.png)
+![](media/e62f4d614ab7e67ac373576d7ff96fee.png)
 
 **Required Components**
 
-![image-20231020083431946](media\image-20231020083431946.png)
+![image-20231020083431946](media/image-20231020083431946.png)
 
 
 **Connection Diagram**
 
-![](media\6e57df420ca5d0dcc6f87467bb0295db.png)
+![](media/6e57df420ca5d0dcc6f87467bb0295db.png)
 
 **Test Code**
 
@@ -70,4 +70,4 @@ Connect the wires according to the experimental wiring diagram, compile and uplo
 
 When the sensor detects someone nearby, value is 1, the LED will go off and the monitor will show“1 Somebody is in this area\!”. In contrast, the value is 0, the LED will go up and“0 No one\!”will be shown.
 
-![](media\d27c4c42e4cc6c63e775fd93d24b3ac1.png)
+![](media/d27c4c42e4cc6c63e775fd93d24b3ac1.png)

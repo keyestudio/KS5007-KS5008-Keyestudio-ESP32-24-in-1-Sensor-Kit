@@ -1,6 +1,6 @@
 ### Project 32: Sound Activated Light
 
-![](media\f3ddb58e83a92a888d3e1d66f7456170.png)
+![](media/f3ddb58e83a92a888d3e1d66f7456170.png)
 
 **Introduction**
 
@@ -8,12 +8,12 @@ In this lesson, we will make a smart sound activated light using a sound sensor 
 
 **Components**
 
-![image-20231020085612240](media\image-20231020085612240.png)
+![image-20231020085612240](media/image-20231020085612240.png)
 
 
 **Connection Diagram**
 
-![](media\e54db9c861847ce0145accb574467c95.png)
+![](media/e54db9c861847ce0145accb574467c95.png)
 
 **Test Code**
 
@@ -58,4 +58,4 @@ Connect the wires according to the experimental wiring diagram, compile and uplo
 
 When the analog value of sound is greater than 600, the LED on the LED module will light up, otherwise it will go off.
 
-![](media\057927151710a87d84b69fdfbf1e7715.png)
+![](media/057927151710a87d84b69fdfbf1e7715.png)

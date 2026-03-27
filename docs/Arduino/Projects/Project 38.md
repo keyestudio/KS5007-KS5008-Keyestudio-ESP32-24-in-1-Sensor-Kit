@@ -15,7 +15,7 @@ In this project, we are going to learn the AP+Station mode of the ESP32.
 
 Plug the ESP32 mainboard to the USB port of your PC
 
-![](media\wps10-16860132131696.jpg)![](media\wps9-16860132131684.png)      ![](media\wps11-16860132131695.png)
+![](media/wps10-16860132131696.jpg)![](media/wps9-16860132131684.png)      ![](media/wps11-16860132131695.png)
 
 **Component Knowledge**
 
@@ -28,7 +28,7 @@ Plug the ESP32 mainboard to the USB port of your PC
 Before running the code, you need to modify the ssid\_Router、password\_Router、ssid\_AP and password\_AP, as shown in
 the box below:
 
-![](media\612347d4204d93e9045c5002c29fe7ea.png)
+![](media/612347d4204d93e9045c5002c29fe7ea.png)
 
 
 ```c
@@ -82,10 +82,10 @@ void loop() {
 
 Ensure that the code in the program has been modified correctly, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on. Open the serial monitor and set the baud rate to 115200, then monitor will display as follows: (If open the serial monitor and set the baud rate to 115200, the information is not displayed, please press the RESET button of the ESP32)
 
-![](media\1fd21fafd84d2b529931a89d21a03d6a.png)
+![](media/1fd21fafd84d2b529931a89d21a03d6a.png)
 
-![](media\68aa510490b2ef48ec0ac087d1b763a9.png)
+![](media/68aa510490b2ef48ec0ac087d1b763a9.png)
 
 Open the WiFi scanning function of the mobile phone, you can see the ssid\_AP.
 
-![](media\3e0ad895bea7f5100cc02a415adcace7.png)
+![](media/3e0ad895bea7f5100cc02a415adcace7.png)

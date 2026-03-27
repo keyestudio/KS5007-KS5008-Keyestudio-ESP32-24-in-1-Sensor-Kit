@@ -1,6 +1,6 @@
 ### Project 16: NTC-MF52AT Thermistor
 
-![](media\868d93395d983645baab872091991403.jpeg)
+![](media/868d93395d983645baab872091991403.jpeg)
 
 **Overview**
 
@@ -10,7 +10,7 @@ We can use analog values to calculate the temperature of the current environment
 
 **Working Principle**
 
-![](media\84a67bb2b90b4740c09d914dc6402f48.png)
+![](media/84a67bb2b90b4740c09d914dc6402f48.png)
 
 This module mainly uses NTC-MF52AT thermistor element, which can sense the changes of the surrounding environment temperature. Resistance changes with the temperature, causing the voltage of the signal terminal S to change.
 
@@ -18,12 +18,12 @@ This sensor uses the characteristics of NTC-MF52AT thermistor element to convert
 
 **Components**
 
-![image-20231020083759906](media\image-20231020083759906.png)
+![image-20231020083759906](media/image-20231020083759906.png)
 
 
 **Connection Diagram**
 
-![](media\7fba5e360e5bcc3e60ef27a77b3362d1.png)
+![](media/7fba5e360e5bcc3e60ef27a77b3362d1.png)
 
 **Test Code**
 
@@ -56,5 +56,5 @@ void loop() {
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on, open the serial monitor and set the baud rate to 9600. The serial monitor will display the thermistor’s ADC value, DAC value and voltage value, as shown below:
 
-![](media\33cedad05d924983b48fd6b33684f0a1.png)
+![](media/33cedad05d924983b48fd6b33684f0a1.png)
 

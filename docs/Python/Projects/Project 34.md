@@ -8,49 +8,7 @@ In the previous experiments, we learned how to turn on/off the LED and adjust it
 
 **2. Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
-
-
-![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
-<td>
-
-![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
-<td>
-
-![](media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png)</td>
-<td>
-
-![](media/6d2903250f8e18898973c545ca497393.png)</td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio White LED Module*1</td>
-<td>Keyestudio DIY IR Receiver*1</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
-<td>
-
-![](media/10ccf14d80feba64bba0c1eacd02b09d.png)</td>
-<td>
-
-![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Micro USB Cable*1</td>
-<td>IR Remote Control*1</td>
-<td>3P Dupont Wire*2</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![image-20231020085818751](media/image-20231020085818751.png)
 
 **3. Connection Diagram**
 

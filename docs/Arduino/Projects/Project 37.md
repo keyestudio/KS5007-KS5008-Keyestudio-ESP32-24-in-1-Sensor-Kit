@@ -14,7 +14,7 @@ In this project, we are going to learn the WiFi AP mode of the ESP32.
 
 Plug the ESP32 mainboard to the USB port of your PC
 
-![image-20231020090521889](media\image-20231020090521889.png)
+![image-20231020090521889](media/image-20231020090521889.png)
 
 **Component Knowledge**
 
@@ -24,13 +24,13 @@ When setting AP mode, a hotspot network will be created, waiting for other WiFi 
 
 Take the ESP32 as the hotspot, if a phone or PC needs to communicate with the ESP32, it must be connected to the ESP32's hotspot. Communication is only possible after a connection is established via the ESP32.
 
-![](media\35d90f1ce10814ea1897ba63f8bd7ad9.png)
+![](media/35d90f1ce10814ea1897ba63f8bd7ad9.png)
 
 **Test Code**
 
 Before running the code , you can make any changes to the ESP32 AP name and password in the box as shown below, but in a default circumstance, it doesn’t need to modify.
 
-![](media\f717e63bbea205e2b5c95fa69a742ba1.png)
+![](media/f717e63bbea205e2b5c95fa69a742ba1.png)
 
 
 
@@ -80,10 +80,10 @@ void loop() {
 Compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on. Open the serial
 monitor and set the baud rate to 115200, then monitor will display as follows: (If open the serial monitor and set the baud rate to 115200, the information is not displayed, please press the RESET button of the ESP32)
 
-![](media\1fd21fafd84d2b529931a89d21a03d6a.png)
+![](media/1fd21fafd84d2b529931a89d21a03d6a.png)
 
-![](media\12f1c45c84266573c43bd7a7cda826a5.png)
+![](media/12f1c45c84266573c43bd7a7cda826a5.png)
 
 When observing the printed information of the serial monitor, turn on the WiFi scanning function of the mobile phone, you can see the ssid\_AP on ESP32, which is dubbed "ESP32\_Wifi" in this code. You can connect to it either by typing the password "12345678" or by modifying the code to change its AP name and password.  
 
-![](media\3e0ad895bea7f5100cc02a415adcace7.png)
+![](media/3e0ad895bea7f5100cc02a415adcace7.png)

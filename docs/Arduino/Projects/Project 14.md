@@ -1,6 +1,6 @@
 ### Project 14: Sound Sensor
 
-![](media\c4d4961f71c7e91bae04507f72cb56eb.jpeg)
+![](media/c4d4961f71c7e91bae04507f72cb56eb.jpeg)
 
 **Overview**
 
@@ -10,16 +10,16 @@ In this kit, there is a Keyestudio DIY electronic block and a sound sensor. In t
 
 It uses a high-sensitive microphone component and an LM386 chip. We build the circuit with the LM386 chip and amplify the sound through the high-sensitive microphone. In addition, we can adjust the sound volume by the potentiometer. Rotate it clockwise, the sound will get louder.
 
-![](media\d55fc5234be47e7727c0bf48c049e341.jpeg)
+![](media/d55fc5234be47e7727c0bf48c049e341.jpeg)
 
 **Components**
 
-![image-20231020083651019](media\image-20231020083651019.png)
+![image-20231020083651019](media/image-20231020083651019.png)
 
 
 **Connection Diagram**
 
-![](media\7a5b741aba98560eddadc3b7788325d9.png)
+![](media/7a5b741aba98560eddadc3b7788325d9.png)
 
 **Test Code**
 
@@ -55,4 +55,4 @@ void loop() {
 
 Connect the wires according to the experimental wiring diagram, compile and upload the code to the ESP32. After uploading successfully，we will use a USB cable to power on, open the serial monitor and set the baud rate to 9600. The serial monitor will display the sound sensor’s ADC value, DAC value and voltage value. Rotate the potentiometer clockwise and speak at the MIC. Then you can see the analog value get larger, as shown below:
 
-![](media\8df0f07847a1f219be836a62f26a2b64.png)
+![](media/8df0f07847a1f219be836a62f26a2b64.png)

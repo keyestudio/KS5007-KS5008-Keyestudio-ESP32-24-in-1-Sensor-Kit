@@ -1,6 +1,6 @@
 ### Project 28: Alarm Experiment
 
-![](C:\Users\Administrator\Desktop\KS5007\docs\Arduino\media\6db3cb7d3a91e700a3b651c1f0edb7a5.jpeg)
+![](media/6db3cb7d3a91e700a3b651c1f0edb7a5.jpeg)
 
 **Overview**
 
@@ -8,12 +8,12 @@ In the previous experiment, we control an output module though an input module. 
 
 **Components**
 
-![image-20231020085302954](C:\Users\Administrator\Desktop\KS5007\docs\Arduino\media\image-20231020085302954.png)
+![image-20231020085302954](media/image-20231020085302954.png)
 
 
 **Connection Diagram**
 
-![](C:\Users\Administrator\Desktop\KS5007\docs\Arduino\media\e37efdec9676d47eaf8dabd2da41759a.png)
+![](media/e37efdec9676d47eaf8dabd2da41759a.png)
 
 **Test Code**
 

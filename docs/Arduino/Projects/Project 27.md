@@ -1,10 +1,6 @@
-## Comprehensive Experiments
-
-The previous projects are related to single sensor or module. In the following part, we will combine various sensors and modules to create some comprehensive experiments to perform special functions.
-
 ### Project 27: Button-controlled LED
 
-![](media\50740b22d16151d490b8494b0bff4f6e.jpeg)
+![](media/50740b22d16151d490b8494b0bff4f6e.jpeg)
 
 **Overview**
 
@@ -12,11 +8,11 @@ In this lesson, we will make an extension experiment with a button and an LED. W
 
 **Components**
 
-![image-20231020085222290](media\image-20231020085222290.png)
+![image-20231020085222290](media/image-20231020085222290.png)
 
-### **Connection Diagram**
+**Connection Diagram**
 
-![](media\378de9cb95275a6a1dec9adbf2f15eaa.png)
+![](media/378de9cb95275a6a1dec9adbf2f15eaa.png)
 
 **Test Code**
 

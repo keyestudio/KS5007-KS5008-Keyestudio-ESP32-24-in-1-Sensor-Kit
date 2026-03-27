@@ -8,79 +8,8 @@ We did a lot of experiments, and for each one we needed to re-upload the code, s
 
 **2. Components Required**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
+![Img](./media/img-20260327132757.png)
 
-
-![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
-<td>
-
-![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
-<td>
-
-![](media/f0ef7a5a2e7eebb09e91f73cb2a6caf3.png)</td>
-<td>
-
-![](media/1aafa8910f5184973f1c913c19489fbd.png)</td>
-<td>
-
-![](media/a0eebfcd8f84c3fbac526e9910e66692.png)</td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*11</td>
-<td>Keyestudio White LED Module*1</td>
-<td>Keyestudio Button Module*1</td>
-<td>Keyestudio Rotary Potentiometer*1</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/b62846d9a80a7e7aed5ffbef0caedf7c.png)</td>
-<td>
-
-![](media/fb4fa5fdd5689ded9c213ba5ceb34c0d.png)</td>
-<td>
-
-![](media/4a358f0f161b2e4dcae43f9315902ef3.png)</td>
-<td>
-
-![](media/51729b3ba2184cf0ca0d3242199731ad.png)</td>
-<td>
-
-![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
-</tr>
-<tr class="even">
-<td>Keyestudio Obstacle Avoidance Sensor*1</td>
-<td>Keyestudio DIY Joystick Module*1</td>
-<td>Keyestudio HC-SR04 Ultrasonic sensor *1</td>
-<td>Keyestudio DIY Common Cathode RGB Module *1</td>
-<td>MicroUSB Cable*1</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
-<td>
-
-![](media/269c154eda332be03643bada56070124.jpeg)</td>
-<td>
-
-![](media/fc3fd9c0110b04d1af77a2ff8c01a10a.png)</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>3P Dupont Wire*4</td>
-<td>4P Dupont Wire*2</td>
-<td>5P Dupont Wire*1</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 **3. Wiring Diagram**
 

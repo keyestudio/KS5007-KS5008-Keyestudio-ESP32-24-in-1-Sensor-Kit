@@ -18,35 +18,7 @@ In previous lesson, we already know how to control an LED. In this part, we only
 
 **3. Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
-
-
-![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
-<td>
-
-![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
-<td>
-
-![](media/6ff6e93b37472de2695aefed0939a14e.png)</td>
-<td>
-
-![](media/fc3fd9c0110b04d1af77a2ff8c01a10a.png)</td>
-<td>
-
-![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio DIY Traffic Lights Module*1</td>
-<td>5P Dupont Wire*1</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020082955449](media/image-20231020082955449.png)
 
 **4. Wiring Diagram**
     

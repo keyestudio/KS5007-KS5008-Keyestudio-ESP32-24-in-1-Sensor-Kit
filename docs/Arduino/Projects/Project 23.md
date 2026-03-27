@@ -1,6 +1,6 @@
 ### Project 23: IR Receiver Module
 
-![](media\80e8f8d8ddc35df9425032ec4ef783ee.png)
+![](media/80e8f8d8ddc35df9425032ec4ef783ee.png)
 
 **Overview**
 
@@ -14,19 +14,19 @@ In the experiment, we use the IR receiver to receive the infrared signal emitted
 
 **Working Principle**
 
-![](media\845973091e7fe407e7fa0e96fc1cf4f1.png)
+![](media/845973091e7fe407e7fa0e96fc1cf4f1.png)
 
 The main part of the IR remote control system is modulation, transmission and reception. The modulated carrier frequency
 is generally between 30khz and 60khz, and most of them use a square wave of 38kHz and a duty ratio of 1/3. A 4.7K pull-up resistor R3 is added to the signal end of the infrared receiver.
 
 **Components**
 
-![image-20231020084724585](media\image-20231020084724585.png)
+![image-20231020084724585](media/image-20231020084724585.png)
 
 
 **Connection Diagram**
 
-![](media\f54763e2701fefc503f275dcb9410ad0.png)
+![](media/f54763e2701fefc503f275dcb9410ad0.png)
 
 **Test Code**
 
@@ -76,8 +76,8 @@ Connect the wires according to the experimental wiring diagram, compile and uplo
 
 Find the infrared remote control, pull out the insulating sheet, and press the button at the receiving head of the infrared receiving sensor. After receiving the signal, the LED on the infrared receiving sensor also starts to flash, as shown in the figure below.
 
-![](media\d9f006f2f98e5d61396a65653950b250.png)
+![](media/d9f006f2f98e5d61396a65653950b250.png)
 
 Write down the key code value associated with the infrared remote with each key, as you will need this information later. 
 
-![](media\ebcf0cb2055f7784505f76ceeaef9f47.jpeg)
+![](media/ebcf0cb2055f7784505f76ceeaef9f47.jpeg)

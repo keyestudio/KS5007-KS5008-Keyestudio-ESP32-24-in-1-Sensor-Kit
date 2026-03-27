@@ -8,39 +8,7 @@ In the previous experiment, we control an output module though an input module. 
 
 **2. Components**
 
-<table class="colwidths-auto docutils align-default">
-<tbody>
-<tr class="odd">
-<td>
-
-
-![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
-<td>
-
-![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
-<td>
-
-![](media/ac83d2c470cd6c345f17feed3bce5358.png)</td>
-<td>
-
-![](media/cbc890daba907eee365bdaacf1f509a8.png)</td>
-<td>
-
-![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
-<td>
-
-![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
-</tr>
-<tr class="even">
-<td>ESP32 Board*1</td>
-<td>ESP32 Expansion Board*1</td>
-<td>Keyestudio Obstacle Avoidance Sensor*1</td>
-<td>Keyestudio Active Buzzer*1</td>
-<td>3P Dupont Wire*2</td>
-<td>Micro USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+![image-20231020085302954](media/image-20231020085302954.png)
 
 **3. Connection Diagram**
 
