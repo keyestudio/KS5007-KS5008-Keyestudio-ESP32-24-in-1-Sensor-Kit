@@ -1,6 +1,6 @@
 ### Project 6: Button Sensor
 
-![img](media/4d5f6ea741d1e346e03f6efe7cfc9d2d.jpeg?lastModify=1774484129)
+![img](media/4d5f6ea741d1e346e03f6efe7cfc9d2d.jpeg)
 
 **1. Overview**
 
